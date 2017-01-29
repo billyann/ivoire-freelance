@@ -1,0 +1,98 @@
+//=== Payment Page
+//
+.cancel-payment-wrapper {
+  background: #FFF;
+}
+.payment-content-payment {
+	background: #FFF;
+}
+
+/**
+ * Customize page process payment
+ */
+.cancel-payment-content{
+  margin-top: 30px;
+  h2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  p.sub-text{
+    text-align: center;
+    color: #737c85;
+    margin-bottom: 20px;
+  }
+  .content-footer{
+    text-align: center;
+    margin-bottom: 30px;
+    a{
+      padding: 10px 24px;
+      background: #00b0ff;
+      color: #fff;
+      border-radius: 2px;
+      box-shadow: 0px 2px 0px #0091ea;
+      display: inline-block;
+      font-weight: 700;
+    }
+  }
+}
+.payment-content{
+  margin-top: 30px;
+  h2{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2c3e50;
+  }
+  p.sub-text{
+    text-align: center;
+    color: #737c85;
+    line-height: 24px;
+  }
+  .invoice-detail{
+    border-top: 1px solid #d6d6d6;
+    border-bottom: 1px solid #d6d6d6;
+    padding: 10px 0;
+    .info-left span{
+      display: block;
+      text-align: right;
+      height: 30px;
+      line-height: 30px;
+      color: #737c85;
+    }
+    .info-right span{
+      display: block;
+      font-weight: bold;
+      text-transform: capitalize;
+      height: 30px;
+      line-height: 30px;
+      color: #2c3e50;
+    }
+    .invoice-note{
+      text-align : center;
+      padding: 0 30px;
+    }
+    .col-xs-6 {
+      padding: 0 10px;
+    }
+  }
+  .content-footer{
+    text-align: center;
+    margin-bottom: 30px;
+    p{
+      padding: 0 30px;
+      margin: 20px 0;
+      color: #737c85;
+    }
+    a{
+      padding: 10px 24px;
+      background: #00b0ff;
+      color: #fff;
+      border-radius: 5px;
+      box-shadow: 0px 2px 0px #0091ea;
+      display: inline-block;
+      font-weight: 700;
+    }
+  }
+}

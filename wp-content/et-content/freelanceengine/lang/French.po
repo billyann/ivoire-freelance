@@ -1,0 +1,5232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: freelanceenginev1.7.12\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"MO-Creation-Date: 2017-01-20 02:54:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: JOB <EMAIL@ADDRESS>\n"
+"Language-Team: ENGINETHEMES.COM <enginethemes@enginethemes.com>\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid " %s's Profile "
+msgstr "Profil de %s"
+
+msgid " Bid"
+msgstr "Offre "
+
+msgid " Comments"
+msgstr " Commentaires"
+
+msgid " Enabling this will make the video on the header automatically repeated."
+msgstr "Activer cette option, entrainera la répétition automatique de la vidéo d'entête "
+
+msgid " Profiles listing page Slug"
+msgstr "Slug de la page Liste de profils "
+
+msgid " RESULT OF  "
+msgstr "RESULTAT DE "
+
+msgid " RESULTS OF "
+msgstr "RESULTATS DE "
+
+msgid " Select the most appropriate one(s)"
+msgstr "Sélectionnez la (les) plus appropriée(s) "
+
+msgid " Skills (max is %s)"
+msgstr "Compétences (%s au maximum) "
+
+msgid " The payment is pending for review. For more information, contact PayPal Customer Service."
+msgstr "Le paiement est en attente d'examen. Pour plus d'informations, contactez Service clientèle de PayPal.  "
+
+msgid " You must login to accept bid."
+msgstr "Vous devez vous connecter pour accepter une offre.  "
+
+msgid " ago"
+msgstr "il y a"
+
+msgid " at %s"
+msgstr "à %s  "
+
+msgid " by "
+msgstr "par  "
+
+msgid " site info, admin email"
+msgstr "Info du site, e-mail admin "
+
+msgid "% Comments on this article"
+msgstr "% commentaires pour cet article"
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès. "
+
+msgid "%1$s installed successfully."
+msgstr "%1$s installée avec succès. "
+
+msgid "%d <span class=\"text-normal\">Comments</span>"
+msgstr "%d <span class=\"text-normal\">Commentaires</span> "
+
+msgid "%d Bidder"
+msgstr "%d Freelance"
+
+msgid "%d Bidders"
+msgstr "%d Freelances"
+
+msgid "%d Comment"
+msgstr "%d Commentaire "
+
+msgid "%d Comments"
+msgstr "%d Commentaires "
+
+msgid "%d points"
+msgstr "%d points "
+
+msgid "%d review"
+msgstr "%d revue"
+
+msgid "%d reviews"
+msgstr "%d Commentaires"
+
+msgid "%d views"
+msgstr "%d vue(s)"
+
+msgid "%d year"
+msgstr "%d année   "
+
+msgid "%d years"
+msgstr "%d ans  "
+
+msgid "%s  for %d credits"
+msgstr "%s pour %d crédits"
+
+msgid "%s <span class=\"text-normal\">bids</span>"
+msgstr "%s <span class=\"text-normal\">Offres</span> "
+
+msgid "%s Profile"
+msgstr "%s Profil "
+
+msgid "%s Profiles "
+msgstr "%s Profils  "
+
+msgid "%s Project for you"
+msgstr "%s Projet pour vous "
+
+msgid "%s Projects for you"
+msgstr "%s Projets pour vous "
+
+msgid "%s Testimonials for you"
+msgstr "%s Recommandations"
+
+msgid "%s ago"
+msgstr "Depuis %s"
+
+msgid "%s bid for project \"%s\""
+msgstr "%s offre sur le projet %s  "
+
+msgid "%s bid for your project %s"
+msgstr "%s offre sur votre projet %s  "
+
+msgid "%s color has been updated"
+msgstr "la couleur de %s a été mise à jour  "
+
+msgid "%s day"
+msgstr "%s jour "
+
+msgid "%s days"
+msgstr "%s jours "
+
+msgid "%s for %d days"
+msgstr "%s pour %d jours "
+
+msgid "%s has comment on %s"
+msgstr "%s a laissé un commentaire sur %s "
+
+msgid "%s has finish project. You will receive payment after you review him."
+msgstr "%s a terminé le projet. Vous recevrez le paiement après votre revue "
+
+msgid "%s has reviewed on %s"
+msgstr "%s a évalué le %s "
+
+msgid "%s have a new invite from %s"
+msgstr "%s ont une nouvelle invitation de %s  "
+
+msgid "%s hour"
+msgstr "%s heure "
+
+msgid "%s hours"
+msgstr "%s heures "
+
+msgid "%s icon has been updated"
+msgstr "l'icône de %s a été mise à jour.  "
+
+msgid "%s invited you to join project %s"
+msgstr "%s vous invite à rejoindre le projet %s "
+
+msgid "%s left"
+msgstr "%s gauche "
+
+msgid "%s min"
+msgstr "%s minute"
+
+msgid "%s mins"
+msgstr "%s minutes"
+
+msgid "%s month"
+msgstr "%s mois "
+
+msgid "%s months"
+msgstr "%s mois "
+
+msgid "%s overview"
+msgstr "%s aperçu "
+
+msgid "%s reviewed project %s"
+msgstr "%s projet évalué %s  "
+
+msgid "%s sent you a message on %s workspace"
+msgstr "%s vous a envoyé un message sur l'espace de travail de %s  "
+
+msgid "%s testimonial for you"
+msgstr "%s recommandation "
+
+msgid "%s week"
+msgstr "%s semaine "
+
+msgid "%s weeks"
+msgstr "%s semaines "
+
+msgid "%s year"
+msgstr "%s année "
+
+msgid "%s years"
+msgstr "%s années "
+
+msgid "%s you worked on was completed by %s"
+msgstr "%s votre mission a été complétée par %s  "
+
+msgid "%s's report"
+msgstr "rapport de %s "
+
+msgid "%s(%s) for %d days"
+msgstr "%s(%s) pour %d jours "
+
+msgid "%s/h"
+msgstr "%s/hv"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp; Reply "
+msgstr "&nbsp;&nbsp;|&nbsp;&nbsp; Répondre "
+
+msgid "(%d item)"
+msgstr "(%d article) "
+
+msgid "(%d items)"
+msgstr "(%d articles) "
+
+msgid "(%s) Porfolios"
+msgstr "(%s) Portfolios "
+
+msgid "(%s)%s for %d days"
+msgstr "(%s)%s pour %d jours "
+
+msgid "0 <span class=\"text-normal\">Comments</span>"
+msgstr "0 <span class=\"text-normal\">commentaires</span> "
+
+msgid "0 <span class=\"text-normal\">bids</span>"
+msgstr "0 <span class=\"text-normal\">offres</span> "
+
+msgid "0 Comment on this article"
+msgstr "0 Commentaire pour cet aticle "
+
+msgid "0 Comments"
+msgstr "0 commentaires "
+
+msgid "0 Comments on this article"
+msgstr "Aucun commentaire pour cet article"
+
+msgid "1 <span class=\"text-normal\">Comment</span>"
+msgstr "1 <span class=\"text-normal\">Commentaire</span> "
+
+msgid "1 <span class=\"text-normal\">bid</span>"
+msgstr "1 <span class=\"text-normal\">offre</span> "
+
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+msgid "1 Comment on this article"
+msgstr "1 Commentaire pour cet article"
+
+msgid "1 Day"
+msgstr "1 jour "
+
+msgid "1 Month"
+msgstr "1 mois "
+
+msgid "1 Year"
+msgstr "1 an "
+
+msgid "15 Days"
+msgstr "15 Jours "
+
+msgid "2 weeks Overview"
+msgstr "Aperçu sur 15 jours  "
+
+msgid "2Checkout"
+msgstr "2 Check-out "
+
+msgid "2Checkout mode"
+msgstr "Mode 2 Check-out "
+
+msgid "3 Days"
+msgstr "3 jours "
+
+msgid "3 Months"
+msgstr "3 mois "
+
+msgid "3 Months Overview"
+msgstr "Aperçu sur 3 mois  "
+
+msgid "6 Months"
+msgstr "6 mois "
+
+msgid "7 Days"
+msgstr "7 jours "
+
+msgid "<i class=\"fa fa-warning\"></i> You must complete your profile to do any activities on site"
+msgstr "<i class=\"fa fa-warning\"></i>Vous devez remplir votre profil pour faire des activités sur le site  "
+
+msgid "<i class=\"fa fa-warning\"></i>You must complete your profile to do any activities on site"
+msgstr "<i class=\"fa fa-warning\"></i>Vous devez remplir votre profil pour faire des activités sur le site "
+
+msgid "<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr "<p> Bonjour, </p><p> Ayez un nouveau poste sur votre site. Vous pouvez le consulter ici: %s </p> "
+
+msgid "<p>There is a pending change of the email to %1$s. <a href=\"%2$s\">Cancel</a></p>"
+msgstr "Il ya un changement dans l'attente de l'email admin pour%1$s. <a href=\"%2$s\">Annuler</a> "
+
+msgid "<p>You have purchased successful package: %s.</p> %s "
+msgstr "<p>Vous avez acheté avec succès la formule suivante: %s.</p> %s  "
+
+msgid "<p>Your listing has been submitted to our website.</p> %s "
+msgstr "<p>Votre projet a été soumis à notre site.</p> %s  "
+
+msgid "<span class=\"author-name\">%s</span> marked <span class=\"\">\"%s\"</span> as <span class=\"status\">%s</span><span class=\"changelog-time\" >%s</span>"
+msgstr "<span class=\"author-name\">%s</span> marked <span class=\"\">\"%s\"</span> as <span class=\"status\">%s</span><span class=\"changelog-time\" >%s</span>  "
+
+msgid "<span class=\"number\">%d</span> bid"
+msgstr "<span class=\"number\">%d</span> offre"
+
+msgid "<span class=\"number\">%d</span> bids"
+msgstr "<span class=\"number\">%d</span> offres "
+
+msgid "<span class=\"number\">%d</span>Comment"
+msgstr "<span class=\"number\">%d</span>Commentaire "
+
+msgid "<span class=\"number\">%d</span>Comments"
+msgstr "<span class=\"number\">%d</span>Commentaires "
+
+msgid "<span class=\"number\">%s</span> Bids"
+msgstr "<span class=\"number\">%s</span> Offres "
+
+msgid "<span class=\"number\">1</span> Bid"
+msgstr "<span class=\"number\">1</span> Offre "
+
+msgid "<span class=\"number-blue\">%d</span> Bid"
+msgstr "<span class=\"number-blue\">%d</span> Offre "
+
+msgid "<span class=\"number-blue\">%d</span> Bids"
+msgstr "<span class=\"number-blue\">%d</span> Offres "
+
+msgid "A couple of news & event posts have been added for your review. You can delete it or add your own posts here."
+msgstr "Des annonces et d'évènements ont été ajoutés pour votre analyse. Vous pouvez les supprimer ou ajouter vos propres commentaires ici !"
+
+msgid "ABOUT %s"
+msgstr "A PROPOS DE %s"
+
+msgid "ABOUT EMPLOYER"
+msgstr "A PROPOS DE L'EMPLOYEUR"
+
+msgid "ACTIVE"
+msgstr "ACTIFS  "
+
+msgid "ADD IMAGE"
+msgstr "AJOUTER UNE IMAGE "
+
+msgid "ARCHIVED"
+msgstr "ARCHIVÉ  "
+
+msgid "About"
+msgstr "A propos  "
+
+msgid "About You"
+msgstr "A propos de vous "
+
+msgid "About you"
+msgstr "A propos de vous "
+
+msgid "Accept"
+msgstr "Accepter  "
+
+msgid "Accept Bid"
+msgstr "Accepter l’offre"
+
+msgid "Accept bid fail"
+msgstr "Offre refusé"
+
+msgid "Accept bid fail !"
+msgstr "L'acceptation de l'offre a échoué"
+
+msgid "Accepted"
+msgstr "Accepté"
+
+msgid "Account Details"
+msgstr "Détails du Compte"
+
+msgid "Activate"
+msgstr "Activer "
+
+msgid "Activate Link"
+msgstr "Activer le lien  "
+
+msgid "Activate customization mode"
+msgstr "Activer le mode personnalisation"
+
+msgid "Add"
+msgstr "Ajouter  "
+
+msgid "Add File "
+msgstr "Ajouter un CV"
+
+msgid "Add New"
+msgstr "Ajouter un nouveau "
+
+msgid "Add New Bid"
+msgstr "Ajouter une nouvelle offre "
+
+msgid "Add New Bid plan"
+msgstr "Ajouter un nouveau Pack d'offres "
+
+msgid "Add New Pack"
+msgstr "Ajouter un nouveau pack  "
+
+msgid "Add New Project Category"
+msgstr "Ajouter une nouvelle catégorie de projet "
+
+msgid "Add New Project Type"
+msgstr "Ajouter un type nouveau projet "
+
+msgid "Add New Skill "
+msgstr "Ajouter une nouvelle compétence  "
+
+msgid "Add New Testimonial"
+msgstr "Faire une recommandation"
+
+msgid "Add New country "
+msgstr "Ajouter un nouveau pays  "
+
+msgid "Add New notification"
+msgstr "Ajouter une nouvelle notification  "
+
+msgid "Add New portfolio"
+msgstr "Ajouter un nouveau portefeuille  "
+
+msgid "Add New profile"
+msgstr "Ajouter Nouveau Profil "
+
+msgid "Add New project"
+msgstr "Ajouter un nouveau projet "
+
+msgid "Add a category"
+msgstr "Ajouter une catégorie  "
+
+msgid "Add a new language"
+msgstr "Ajouter une nouvelle langue "
+
+msgid "Add badge"
+msgstr "Ajouter un badge "
+
+msgid "Add item"
+msgstr "Ajouter un item "
+
+msgid "Add item for your Portfolio"
+msgstr "Ajouter des articles à votre portefeuille "
+
+msgid "Add language"
+msgstr "Ajoutez une langue  "
+
+msgid "Add new categories or modify the sample data to match your directory business."
+msgstr "Ajoutez de nouvelles catégories ou de modifier les données pour correspondre à votre activité. "
+
+msgid "Add new categories or modify the sample data to match your freelance business."
+msgstr "Ajoutez de nouvelles catégories ou modifiez les données d'exemple pour correspondre à votre métier de freelance."
+
+msgid "Add new locations or modify the sample data to match your directory business."
+msgstr "Ajouter de nouveaux emplacements ou de modifier les données pour correspondre à votre activité."
+
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr "Ajoutez de nouveaux types de profils ou modifiez les données pour correspondre à votre activité."
+
+msgid "Add new profile types or modify the sample ones to suit your site style."
+msgstr "Ajoutez de nouveaux types de profils ou modifiez les données d'échantillon pour correspondre à votre site de freelance."
+
+msgid "Add new project type or modify the sample data to match your freelance business."
+msgstr "Ajoutez de nouveaux types de projets ou modifiez les données d'exemple pour correspondre à votre site de freelance."
+
+msgid "Add new project types or modify the sample ones to suit your site style."
+msgstr "Ajouter de nouveaux types de projets ou modifier les échantillons pour convenir à votre style de site."
+
+msgid "Add new skill or modify the sample data to match your freelance business."
+msgstr "Ajoutez de nouvelles compétences ou modifiez les données d'exemple pour correspondre à votre site de freelance."
+
+msgid "Add or remove Project Categories"
+msgstr "Ajouter ou supprimer des catégories de projets"
+
+msgid "Add or remove Project Types"
+msgstr "Ajouter ou supprimer des Types de projets "
+
+msgid "Add or remove country"
+msgstr "Ajouter ou supprimer un pays  "
+
+msgid "Add or remove skill"
+msgstr "Ajouter ou supprimer une compétence  "
+
+msgid "Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr "Ajouter ou supprimer des widgets dans les barres latérales sur tout le site pour mieux répondre à vos besoins."
+
+msgid "Add sub tax for this tax"
+msgstr "Ajoutez une autre taxe à cette taxe"
+
+msgid "Add your work"
+msgstr "Ajouter votre travail "
+
+msgid "Adding new language successfully."
+msgstr "Ajout d'une nouvelle langue réussi.  "
+
+msgid "Address"
+msgstr "Adresse "
+
+msgid "Address:"
+msgstr "Adresse "
+
+msgid "Admin Execute Payment Mail"
+msgstr "Email d'exécution de paiement de l'admin "
+
+msgid "Admin Executed The Payment"
+msgstr "L'Admin a exécuté le paiement  "
+
+msgid "Admin New Report Mail"
+msgstr "Email de nouveau signalement de l'Admin"
+
+msgid "Admin Notification of New User Registration"
+msgstr "Notifier l'administrateur des nouvelles inscriptions "
+
+msgid "Admin Refund Payment"
+msgstr "Remboursement de l’admin"
+
+msgid "Admin Refunded The Payment"
+msgstr "L'Admin a remboursé le paiement  "
+
+msgid "Administration"
+msgstr "Configuration  "
+
+msgid "Advanced"
+msgstr "Avancés "
+
+msgid "Agree"
+msgstr "D'accord !"
+
+msgid "Align"
+msgstr "Aligner "
+
+msgid "All"
+msgstr "Tout "
+
+msgid "All Bid plans"
+msgstr "Tous les Pack d'offres "
+
+msgid "All Orders"
+msgstr "Toutes les commandes "
+
+msgid "All Packs"
+msgstr "Tous les packs "
+
+msgid "All Project Categories"
+msgstr "Toutes les catégories de projet "
+
+msgid "All Project Types"
+msgstr "Tous les types de projets "
+
+msgid "All Skills"
+msgstr "Toutes les compétences  "
+
+msgid "All Testimonials"
+msgstr "Tous les témoignages "
+
+msgid "All Users"
+msgstr "Tous les utilisateurs  "
+
+msgid "All categories"
+msgstr "Toutes les catégories "
+
+msgid "All countries"
+msgstr "Tous les pays "
+
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été achevées. "
+
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été achevées."
+
+msgid "All locations"
+msgstr "Toutes les localisations "
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées avec sucées. %s "
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Installation et activation réussies de tous les plugins. %s"
+
+msgid "All skills"
+msgstr "Toutes les compétences "
+
+msgid "All types"
+msgstr "Tous types "
+
+msgid "Allows you to customize some example settings for DirectoryEngine."
+msgstr "Vous permet de personnaliser certains paramètres d'exemple pour le thème."
+
+msgid "Already added."
+msgstr "Déjà ajoutée.  "
+
+msgid "Already have an account?"
+msgstr "Vous avez déjà un compte? "
+
+msgid "American Dollar"
+msgstr "Dollar américain "
+
+msgid "An error has occurred!"
+msgstr "Une erreur s’est produite.   "
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est survenue lors de l’installation %1$s: <strong>%2$s</strong>. "
+
+msgid "An unknown error has occurred. Please try again later."
+msgstr "Une erreur inconnue s’est produite. Veuillez réessayer ultérieurement."
+
+msgid "Apply"
+msgstr "Postuler "
+
+msgid "Approve"
+msgstr "Valider "
+
+msgid "Apr"
+msgstr "Avr "
+
+msgid "April"
+msgstr "Avril "
+
+msgid "Archive"
+msgstr "Archive"
+
+msgid "Archive Mail Template"
+msgstr "Modèle d'e-mail d'archive"
+
+msgid "Are you sure to archive this?"
+msgstr "Etes-vous sûr d'archiver cela?   "
+
+msgid "Are you sure you want to delete this?"
+msgstr "Êtes-vous sûr de vouloir supprimer ceci ? "
+
+msgid "Assign to a author:"
+msgstr "Attribuer à un auteur : "
+
+msgid "Attach file"
+msgstr "Ajouter un fichier  "
+
+msgid "Attachment"
+msgstr "Pièce jointe"
+
+msgid "Attachment:"
+msgstr "Pièce jointe: "
+
+msgid "Attachments:"
+msgstr "Pièces jointes:"
+
+msgid "Attention"
+msgstr "Vigilance "
+
+msgid "Aug"
+msgstr "Août "
+
+msgid "August"
+msgstr "Août "
+
+msgid "Australian Dollar"
+msgstr "Dollar australien "
+
+msgid "Authentication Mail Template"
+msgstr "Modèle d'e-mail d'authentification "
+
+msgid "Author's Posts"
+msgstr "Les articles de l’auteur  "
+
+msgid "Availability"
+msgstr "Disponibilité "
+
+msgid "Available for hire?"
+msgstr "Disponible pour embauche? "
+
+msgid "Avg Bid (%s)"
+msgstr "Offre moyenne"
+
+msgid "Avg Bids(%s)"
+msgstr "Offres moyennes(%s) "
+
+msgid "Awww! Why quit?"
+msgstr "Awww! Pourquoi arrêter? "
+
+msgid "BID"
+msgstr "OFFRE "
+
+msgid "BUDGET"
+msgstr "BUDGET"
+
+msgid "BY"
+msgstr "PAR"
+
+msgid "Back To Project Page"
+msgstr "Retour à la page projet"
+
+msgid "Ban for"
+msgstr "Banni pour  "
+
+msgid "Ban this user"
+msgstr "Bannir cet utilisateur  "
+
+msgid "Ban user"
+msgstr "Bannir cet utilisateur  "
+
+msgid "Banned until %s"
+msgstr "Banni jusqu'au %s  "
+
+msgid "Become our member!"
+msgstr "Devenir membre! "
+
+msgid "Bid"
+msgstr "Offre "
+
+msgid "Bid "
+msgstr "Offre "
+
+msgid "Bid Accepted Mail"
+msgstr "E-mail d'acceptation d'offre "
+
+msgid "Bid Accepted Mail Template"
+msgstr "Modèle d'e-mail d'acceptation d'offre "
+
+msgid "Bid Budget"
+msgstr "Budget de l'offre "
+
+msgid "Bid Budget :"
+msgstr "Budget de l'offre:  "
+
+msgid "Bid Cancel Mail"
+msgstr "E-mail d'annulation d'offre  "
+
+msgid "Bid Cancel Mail Template"
+msgstr "Modèle d'e-mail d'annulation d'offre "
+
+msgid "Bid Mail"
+msgstr "E-mail d'offre "
+
+msgid "Bid Plans"
+msgstr ""
+
+msgid "Bid acceptance"
+msgstr "Acceptation de l’offre"
+
+msgid "Bid has been deleted successful"
+msgstr "L'offre a été supprimée.  "
+
+msgid "Bid on project %s was accepted"
+msgstr "L'offre sur le projet %s a été acceptée  "
+
+msgid "Bid plan"
+msgstr "Pack d'offres "
+
+msgid "Bid plans"
+msgstr "Pack d'offres "
+
+msgid "Bidding"
+msgstr "Appels d’offres "
+
+msgid "Bidding:"
+msgstr "Appels d’offres: "
+
+msgid "Bids"
+msgstr "Offres"
+
+msgid "Blog"
+msgstr "Blog "
+
+msgid "Blog Sidebar"
+msgstr "Barre latérale du Blog "
+
+msgid "Body"
+msgstr "Corps"
+
+msgid "Body Background Color"
+msgstr "Couleur d’arrière-plan du corps"
+
+msgid "Branding"
+msgstr "Marque "
+
+msgid "Branding image has been uploaded successfully"
+msgstr "Le logo a été téléchargé avec succès  "
+
+msgid "British Pound"
+msgstr "Livre sterling "
+
+msgid "Browse"
+msgstr "Parcourir"
+
+msgid "Budget"
+msgstr "Budget"
+
+msgid "Budget (%s)"
+msgstr "Budget (%s) "
+
+msgid "Budget :"
+msgstr "Budget:"
+
+msgid "Budget Projects first"
+msgstr "Budget du projet en premier"
+
+msgid "Budget limitation"
+msgstr "Limite du budget "
+
+msgid "By creating an account, you agree to our <a href=\"%s\" target=\"_Blank\">Term of Use and Privacy policy</a>"
+msgstr "En créant un compte, vous acceptez nos <a href=\"%s\" target=\"_Blank\">conditions générales de ventes</a> "
+
+msgid "By percentage"
+msgstr "En pourcentage "
+
+msgid "By posting your project, you agree to our <a href=\"%s\" target=\"_Blank\">Term of Use and Privacy policy</a>"
+msgstr "En publiant votre projet, vous adhérez à nos <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_Blank\">conditions d'utilisation et politique de confidentialité</a>"
+
+msgid "By specific amount"
+msgstr "Par montant spécifique "
+
+msgid "CANCEL"
+msgstr "ANNULER"
+
+msgid "COMPLETED"
+msgstr "ACHEVE"
+
+msgid "Can not authenticate user"
+msgstr "Impossible d'authentifier l’utilisateur"
+
+msgid "Can not get the access token from Linkedin server!"
+msgstr "Impossible d'obtenir le jeton d'accès du serveur Linkedin! "
+
+msgid "Can not get user information from Linkedin server!"
+msgstr "Vous ne pouvez pas obtenir des informations de l'utilisateur à partir du serveur Linkedin! "
+
+msgid "Can't delete category"
+msgstr "Impossible de supprimer la catégorie  "
+
+msgid "Can't find Social ID"
+msgstr "Impossible de trouver ID social "
+
+msgid "Canadian Dollar"
+msgstr "Dollar canadien "
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+msgid "Cancel this bidding"
+msgstr "Annuler cette offre "
+
+msgid "Cannot create a place with an empty package."
+msgstr "Vous ne pouvez pas créer un lieu avec un paquet vide. "
+
+msgid "Cannot find category"
+msgstr "Catégorie introuvable  "
+
+msgid "Captcha"
+msgstr "Captcha "
+
+msgid "Cash"
+msgstr "En espèces "
+
+msgid "Cash Notification Mail"
+msgstr "E-mail de notification de paiement comptant "
+
+msgid "Cash Notification Mail Template"
+msgstr "Modèle de courrier de Notification en espèces "
+
+msgid "Categories' level is limited to 3"
+msgstr "Le niveau des catégories est limité à 3  "
+
+msgid "Category"
+msgstr "Catégorie "
+
+msgid "Category name is required"
+msgstr "Le nom de la catégorie est requis  "
+
+msgid "Category:"
+msgstr "Catégorie: "
+
+msgid "Change"
+msgstr "Changer "
+
+msgid "Change Password"
+msgstr "Changer le Mot de Passe "
+
+msgid "Change password"
+msgstr "Changer le mot de passe "
+
+msgid "Change your password."
+msgstr "Changez votre mot de passe."
+
+msgid "Changes are saved successfully."
+msgstr "Les modifications ont été correctement sauvegardées"
+
+msgid "Choose a Language"
+msgstr "Choisissez une langue "
+
+msgid "Choose a seller to make him become the author of this item."
+msgstr "Choisissez un vendeur pour lui attribuer cet article.  "
+
+msgid "Choose categories"
+msgstr "Choisissez les catégories "
+
+msgid "Choose country"
+msgstr "Choisissez le pays "
+
+msgid "Choose from most used enginetheme"
+msgstr "Choisissez parmi les produits enginetheme les plus utilisés    "
+
+msgid "Choose type account"
+msgstr "Choisissez le type de compte "
+
+msgid "Client ID"
+msgstr "Client ID "
+
+msgid "Close"
+msgstr "Fermer "
+
+msgid "Code"
+msgstr "Code "
+
+msgid "Color"
+msgstr "Couleur  "
+
+msgid "Color Schemes"
+msgstr "Jeux de couleurs"
+
+msgid "Colors"
+msgstr "Couleurs"
+
+msgid "Comment"
+msgstr "Commenter"
+
+msgid "Comment navigation"
+msgstr "Navigation commentaire"
+
+msgid "Comments"
+msgstr " Commentaires "
+
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos"
+
+msgid "Comments are off for this post."
+msgstr "Les commentaires sont clos pour ce post"
+
+msgid "Commission"
+msgstr "Commission "
+
+msgid "Commission type"
+msgstr "Type de commission "
+
+msgid "Complete"
+msgstr "Terminer"
+
+msgid "Complete Mail"
+msgstr "E-mail terminé"
+
+msgid "Complete Project Mail Template"
+msgstr "Modèle d'e-mail de projet complet"
+
+msgid "Completed"
+msgstr "Achevé"
+
+msgid "Conection with twitter Failed"
+msgstr "Echec de connexion avec Twitter "
+
+msgid "Confirm Mail Template"
+msgstr "Confirmer le modèle Courrier "
+
+msgid "Confirm link"
+msgstr "Confirmer le lien  "
+
+msgid "Confirme Mail"
+msgstr "Confirmez votre email "
+
+msgid "Confirmed"
+msgstr "Confirmé "
+
+msgid "Confirmed Mail"
+msgstr "E-mail de confirmation "
+
+msgid "Confirmed Mail Template"
+msgstr "Modèle de mail confirmé "
+
+msgid "Congratulation!"
+msgstr "Félicitations !"
+
+msgid "Congratulations! You have successfully registered to %s."
+msgstr "Félicitations! Vous êtes inscrit avec succès à %s.  "
+
+msgid "Congratulations! Your account has been verified successfully."
+msgstr "Félicitations ! Votre compte a été vérifié et validé.  "
+
+msgid "Consumer Key / API Key "
+msgstr "Largeur du séparateur en % "
+
+msgid "Consumer Secret / Secret Key "
+msgstr "Consumer secret / Clé secrète "
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Content Options"
+msgstr "Options du contenu"
+
+msgid "Copyright"
+msgstr "Copyright "
+
+msgid "Copyright Background Color"
+msgstr "Couleurs de l’arrière-plan du Copyright"
+
+msgid "Count"
+msgstr "Nombre "
+
+msgid "Countries"
+msgstr "Pays "
+
+msgid "Country"
+msgstr "Pays "
+
+msgid "Country tag page Slug"
+msgstr "Slug de la page Pays"
+
+msgid "Country:"
+msgstr "Pays:"
+
+msgid "Create Your Team"
+msgstr "Créez votre équipe "
+
+msgid "Create a Profile"
+msgstr "Créer un profil"
+
+msgid "Create a Project like this"
+msgstr "Créer un projet comme celui-ci "
+
+msgid "Create a project now"
+msgstr "Créer un projet maintenant "
+
+msgid "Create account"
+msgstr "Créer un compte "
+
+msgid "Create bid successful."
+msgstr "Offre créée avec succès "
+
+msgid "Credit number for a bid"
+msgstr "Nombre de crédits pour faire une offre  "
+
+msgid "Credit number for this package"
+msgstr "Numéro de crédit pour ce forfait"
+
+msgid "Currency"
+msgstr "Devise "
+
+msgid "Current bids"
+msgstr "Offres actuelles "
+
+msgid "Currently, you do not have any project available to invite this user."
+msgstr "Actuellement, vous ne disposez pas de projet pour inviter cet utilisateur. "
+
+msgid "DE Options"
+msgstr "DE Options"
+
+msgid "DISPUTE"
+msgstr "LITIGE "
+
+msgid "DRAFT"
+msgstr "BROUILLON  "
+
+msgid "Deadline"
+msgstr "Date limite "
+
+msgid "Dec"
+msgstr "déc. "
+
+msgid "December"
+msgstr "Décembre "
+
+msgid "Decide the amount of commission to be paid for using the service."
+msgstr "Décidez du montant de la commission à payer pour l'utilisation du service. "
+
+msgid "Decimal point"
+msgstr "Virgule "
+
+msgid "Decline"
+msgstr "Refuser "
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Delete Data Successfully."
+msgstr "Suppression avec succès  "
+
+msgid "Delete sample data"
+msgstr "Supprimer les exemples de données"
+
+msgid "Delete sample data false"
+msgstr "Supprimer des exemples de données fausses  "
+
+msgid "Delete this bidding"
+msgstr "Supprimer cette offre "
+
+msgid "Describe your project in a few paragraphs"
+msgstr "Décrivez clairement votre projet. Donnez le plus de détails que possible afin d'attirer de nombreux freelances. "
+
+msgid "Description"
+msgstr "Description "
+
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Les détails sont présentés ci-dessus. L'importateur va maintenant essayer de nouveau avec un analyseur différent ... "
+
+msgid "Disable"
+msgstr "Désactiver  "
+
+msgid "Disable Comment"
+msgstr "Désactiver les commentaires "
+
+msgid "Disable automatic page creation"
+msgstr "Désactiver la création automatique de page "
+
+msgid "Disable automatic page creation."
+msgstr "Désactiver la création automatique de la page. "
+
+msgid "Disable comment on project page."
+msgstr "Désactiver les commentaires sur la page de projet "
+
+msgid "Discontinue"
+msgstr "Arrêter "
+
+msgid "Discount"
+msgstr "Réduction "
+
+msgid "Dismiss this notice"
+msgstr "Retirer l’avertissement "
+
+msgid "Disputed"
+msgstr "Contesté"
+
+msgid "Disputing"
+msgstr "Contestation"
+
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Téléchargement de l’archive d’installation depuis <span class=“code”>%s</span>&#8230; "
+
+msgid "Draft"
+msgstr "Brouillon "
+
+msgid "ERROR: Enter username or email address."
+msgstr "ERREUR: Tapez votre nom d’utilisateur ou votre adresse e-mail. "
+
+msgid "ERROR: Invalid username or email address."
+msgstr "ERREUR: Nom d’utilisateur ou adresse e-mail invalide.  "
+
+msgid "ERROR: There is no user registered with that email address."
+msgstr "ERREUR: Aucun utilisateur enregistré avec cette adresse e-mail. "
+
+msgid "ESCROW CONFIGURATION"
+msgstr "CONFIGURATION D’ACOMPTE  "
+
+msgid "Each receiver pays their own fee"
+msgstr "Chaque récepteur paie ses propres frais   "
+
+msgid "Earned :"
+msgstr "Total gagné: "
+
+msgid "Earning:"
+msgstr "Revenus: "
+
+msgid "Edit"
+msgstr "Modifier "
+
+msgid "Edit Bid"
+msgstr "Modifier l’offre "
+
+msgid "Edit Bid plan"
+msgstr "Modifier le Pack d'offres "
+
+msgid "Edit Pack"
+msgstr "Modifier le Pack d'annonce "
+
+msgid "Edit Project"
+msgstr "Modifier le projet "
+
+msgid "Edit Project Category"
+msgstr "Modifier la catégorie de projet "
+
+msgid "Edit Project Type"
+msgstr "Modifier le type de projet "
+
+msgid "Edit Skill"
+msgstr "Modifier compétence "
+
+msgid "Edit Testimonial"
+msgstr "Modifier la recommandation"
+
+msgid "Edit all available menus in your site here."
+msgstr "Modifier tous les menus disponibles dans votre site ici."
+
+msgid "Edit country"
+msgstr "Modifier le pays "
+
+msgid "Edit notification"
+msgstr "Modifier la notification  "
+
+msgid "Edit portfolio"
+msgstr "Modifier Portefeuille   "
+
+msgid "Edit profile"
+msgstr "Modifier le profil "
+
+msgid "Edit project"
+msgstr "Modifier le projet "
+
+msgid "Email"
+msgstr "Email "
+
+msgid "Email Address"
+msgstr "Adresse E-mail "
+
+msgid "Email Confirmation"
+msgstr "E-mail de confirmation "
+
+msgid "Email Confirmation "
+msgstr "Confirmation de l'e-mail "
+
+msgid "Email address"
+msgstr "Adresse email "
+
+msgid "Email field is invalid."
+msgstr "Le champ email  est invalide.  "
+
+msgid "Email templates for authentication process. You can use placeholders to include some specific content."
+msgstr "Modèles de courriel pour processus d'authentification. Vous pouvez utiliser des espaces réservés pour inclure un contenu spécifique. "
+
+msgid "Email templates used for project-related event. You can use placeholders to include some specific content"
+msgstr "Modèles de courriel utilisés pour l'événement lié au projet. Vous pouvez utiliser des espaces réservés pour inclure un contenu spécifique "
+
+msgid "Email templates used for project-report event. You can use placeholders to include some specific content"
+msgstr "Modèles d'e-mail utilisés pour l'événement de signalement de projet. Vous pouvez utiliser des espaces réservés pour inclure un contenu spécifique "
+
+msgid "Employer"
+msgstr "Employeur"
+
+msgid "Employer Report  Mail"
+msgstr "E-mail de signalement de l'employeur"
+
+msgid "Employer Review"
+msgstr "Avis de l’employeur"
+
+msgid "Employer closed the project"
+msgstr "L'employeur a fermé le projet"
+
+msgid "Employers"
+msgstr "Employeurs  "
+
+msgid "Enable"
+msgstr "Activer "
+
+msgid "Enable this option will disable automatic page creation."
+msgstr "Activer cette option permet de désactiver la création automatique de la page. "
+
+msgid "Enable this option will prevent directly login to admin page."
+msgstr "Empêcher la connexion directe à la page d'administration."
+
+msgid "Enabling this will activate the Escrow system."
+msgstr "Cela activera le système d'acompte."
+
+msgid "Enabling this will allow users to login via Facebook."
+msgstr "En activant ceci, cela permettra aux utilisateurs de se connecter via Facebook. "
+
+msgid "Enabling this will allow users to login via Google."
+msgstr "Cette activation permettra aux utilisateurs de se connecter via Twitter."
+
+msgid "Enabling this will allow users to login via LinkedIn."
+msgstr "Cette activation permettra aux utilisateurs de se connecter via Twitter."
+
+msgid "Enabling this will allow users to login via Twitter."
+msgstr "Cette activation permettra aux utilisateurs de se connecter via Twitter."
+
+msgid "Enabling this will allow users to submit listing free."
+msgstr "L'activation de cette option permettra aux utilisateurs de soumettre leurs annonces gratuitement. "
+
+msgid "Enabling this will allow you to manually transfer the money when the project's completed."
+msgstr "L'activation de ce qui vous permettra de transférer manuellement l'argent quand ce a terminé le projet. "
+
+msgid "Enabling this will allow you to test payment without charging your account."
+msgstr "Activer cette option vous permettra d'effectuer des test de paiement sans charger votre compte. "
+
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr "L'activation de cette option permettra à votre utilisateur d'envoyer l'argent à votre compte bancaire. "
+
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr "Activer cette option permettra aux utilisateurs de payer via 2Check-out "
+
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr "L'activation de cette option permettra à vos utilisateurs de payer par PayPal "
+
+msgid "Enabling this will force user select skill from the predefined list."
+msgstr "L'activation de cette fonction forcera l'utilisateur à choisir ses compétences dans une liste prédéfinie. "
+
+msgid "Enabling this will make employer and freelancer have the same capabilities."
+msgstr "L'activation de ceci fera que les client et le freelance auront  les mêmes capacités. "
+
+msgid "Enabling this will make every new project posted pending until you review and approve it manually."
+msgstr "L'activation de cette fonction mettra tout nouveau projet en attente d'approbation. "
+
+msgid "Enabling this will prevent spammers to register.<a href='https://www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr "Cette activation empêchera les spams lors de l'inscription. <a href='https://www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>Obtenir la clé</a>"
+
+msgid "Enabling this will require freelancer pay to bid."
+msgstr "Activer cette option impliquera que le freelance paye pour faire une offre. "
+
+msgid "Enabling this will require users to confirm their email addresses after registration."
+msgstr "Avec l'activation de cette option, les utilisateurs devront confirmer leurs adresses e-mail après l'enregistrement. "
+
+msgid "Engine Settings"
+msgstr "Paramètres de Engine  "
+
+msgid "Enhance your site by customizing these other features"
+msgstr "Améliorer votre site en personnalisant ces autres caractéristiques"
+
+msgid "Enter Full Name"
+msgstr "Entrez votre nom complet "
+
+msgid "Enter Password"
+msgstr "Entrez votre mot de passe "
+
+msgid "Enter Username"
+msgstr "Entrez un identifiant "
+
+msgid "Enter a email"
+msgstr "Entrez une adresse e-mail "
+
+msgid "Enter a name for your badge"
+msgstr "Entrez un nom pour votre badge  "
+
+msgid "Enter a name for your plan"
+msgstr "Entrez un nom pour votre forfait"
+
+msgid "Enter a short title for your project"
+msgstr "Saisissez un titre court pour votre projet "
+
+msgid "Enter address"
+msgstr "Entrez votre adresse (facultatif)"
+
+msgid "Enter amount"
+msgstr "Entrez le montant "
+
+msgid "Enter currency code and sign ...."
+msgstr "Entrez le code monétaire et le symbole …. "
+
+msgid "Enter email"
+msgstr "Entrez votre adresse e-mail "
+
+msgid "Enter first name"
+msgstr "Entrez votre prénom "
+
+msgid "Enter language name"
+msgstr "Entrez le nom de langue  "
+
+msgid "Enter last name"
+msgstr "Entrez votre nom "
+
+msgid "Enter map address"
+msgstr "Entrez votre adresse (facultatif)  "
+
+msgid "Enter new password"
+msgstr "Entrez votre nouveau mot de passe "
+
+msgid "Enter password"
+msgstr "Entrez votre mot de passe "
+
+msgid "Enter slug for your Country tag page"
+msgstr "Entrer le slug de votre page Pays"
+
+msgid "Enter slug for your Profiles listing page"
+msgstr "Entrer le slug pour votre page Liste de profils"
+
+msgid "Enter slug for your Project Category page"
+msgstr "Entrer le slug pour votre page de projets "
+
+msgid "Enter slug for your Project Type page"
+msgstr "Entrer le slug de la page Type de projet"
+
+msgid "Enter slug for your Projects listing page"
+msgstr "Entrer un slug pour votre liste de projet"
+
+msgid "Enter slug for your Single Project page"
+msgstr "Entrer le slug pour votre page de projets"
+
+msgid "Enter slug for your Skill tag page"
+msgstr "Entrer le slug de la page Compétences"
+
+msgid "Enter slug for your User Profile page"
+msgstr "Entrer le slug pour votre page Profil d'utilisateur "
+
+msgid "Enter the credit number for a bid."
+msgstr "Entrer le nombre de crédits pour faire une offre. "
+
+msgid "Enter the free bids number."
+msgstr "Entrer le nombre d'offres gratuites "
+
+msgid "Enter the language's name"
+msgstr "Entrez le nom de la langue  "
+
+msgid "Enter the maximum number allowed for employers to use your Free plan"
+msgstr "Entrez le nombre de forfait gratuit maximum autorisé pour les employeurs "
+
+msgid "Enter username"
+msgstr "Entrez votre identifiant "
+
+msgid "Enter username or email"
+msgstr "Entrez votre nom d'utilisateur ou courriel "
+
+msgid "Enter your PayPal email address"
+msgstr "Entrez votre adresse email PayPal "
+
+msgid "Enter your email here"
+msgstr "Entrez votre addresse e-mail ici "
+
+msgid "Enter your header video fallback image url"
+msgstr "Entrer la video de remplissage de l'en-tete"
+
+msgid "Enter your header video url"
+msgstr "Entrer le lien de votre vidéo d'entête "
+
+msgid "Enter your new password"
+msgstr "Entrez votre nouveau mot de passe "
+
+msgid "Enter your old password"
+msgstr "Tapez votre ancien mot de passe "
+
+msgid "Enter your password to close"
+msgstr "Entrer votre mot de passe pour fermer"
+
+msgid "Enter your paypal email"
+msgstr "Entrez votre adresse email PayPal  "
+
+msgid "Enter your project details"
+msgstr "Entrez les détails de votre projet "
+
+msgid "Enter your video background url in page-home.php template (.mp4)"
+msgstr ""
+"Entrer le lien de vidéo d'arrière plan de\n"
+" la page d'accueil.php template (.mp4)"
+
+msgid "Enter your website description"
+msgstr "Entrer la description du site web"
+
+msgid "Enter your website title."
+msgstr "Entrez le titre du site web"
+
+msgid "Enter youtube ID for background video instead of video url"
+msgstr "Entrer votre ID YouTube pour le lien de la vidéo d'arrière plan au lieu du lien de la vidéo"
+
+msgid "Enter youtube video ID"
+msgstr "Entrer votre ID YouTube "
+
+msgid "Error Receiving Request Token"
+msgstr "Erreur de réception de demande de jeton "
+
+msgid "Error to connect to Google"
+msgstr "Erreur de se connecter à Google "
+
+msgid "Error to connect to Google Server"
+msgstr "Erreur de se connecter à Google serveur "
+
+msgid "Error to connect to Google Server!"
+msgstr "Erreur de se connecter à Google serveur! "
+
+msgid "Error to connect to Linkedin server"
+msgstr "Erreur de connexion au serveur de Linkedin "
+
+msgid "Error to connect to Linkedin server!"
+msgstr "Erreur de connexion au serveur Linkedin! "
+
+msgid "Error to connect to Linkedin server2!"
+msgstr "Erreur de se connecter à Linkedin server2! "
+
+msgid "Error when updating settings."
+msgstr "Erreur lors de l’actualisation des paramètres.  "
+
+msgid "Error! Can not specify which project you are working on."
+msgstr "Erreur! Vous ne pouvez pas préciser le projet sur lequel vous travaillez.  "
+
+msgid "Error. You have been accepted for this project"
+msgstr "Erreur. Vous avez été accepté pour ce projet "
+
+msgid "Escrow"
+msgstr "Acompte  "
+
+msgid "Escrow transfer to"
+msgstr "Argent retenu à transférer "
+
+msgid "Euro"
+msgstr "Euro "
+
+msgid "Experience"
+msgstr "Expérience : "
+
+msgid "Experience:"
+msgstr "Expérience :"
+
+msgid "Expired Date:"
+msgstr "Date d'expiration:   "
+
+msgid "Extra class name"
+msgstr "Nom supplémentaire de classe "
+
+msgid "FRE Social Widget"
+msgstr "Widget sociaux libres  "
+
+msgid "FREE"
+msgstr "GRATUIT "
+
+msgid "FREELANCER BIDDING (%s)"
+msgstr "OFFRES DU FREELANCER (%s) "
+
+msgid "Facebook"
+msgstr "Facebook "
+
+msgid "Facebook API"
+msgstr "API Facebook "
+
+msgid "Facebook API "
+msgstr "API Facebook "
+
+msgid "Facebook Application ID"
+msgstr "Ident. d’application Facebook "
+
+msgid "Facebook Secret Key"
+msgstr "Facebook App ID: "
+
+msgid "Facebook URL"
+msgstr "URL Facebook  "
+
+msgid "Facebook key "
+msgstr "Clef Facebook "
+
+msgid "Facebook secret key "
+msgstr "Facebook App ID: "
+
+msgid "Failed"
+msgstr "Échec "
+
+msgid "Failed to delete file"
+msgstr "Échec de la suppression du fichier"
+
+msgid "Fallback image for video background when browser not support"
+msgstr "Image de remplissage, quand le navigateur ne supporte pas la vidéo"
+
+msgid "Featured Project"
+msgstr "Projet vedette"
+
+msgid "Featured Projects first"
+msgstr "Projets à la une en premier"
+
+msgid "Featured post:"
+msgstr "Article mis en avant:  "
+
+msgid "Feb"
+msgstr "Février "
+
+msgid "February"
+msgstr "Février "
+
+msgid "File extension: Png, Jpg, Pdf, Zip, Xls"
+msgstr "Extensions de fichiers acceptés: PNG, JPG, PDF, ZIP "
+
+msgid "File has been uploaded successfully"
+msgstr "Le fichier a bien été joint"
+
+msgid "Files are deleted successfully"
+msgstr "Les fichiers sont convenablement supprimés"
+
+msgid "Find a Freelancer"
+msgstr "Trouver un freelance"
+
+msgid "Find a Project"
+msgstr "Chercher un projet"
+
+msgid "Find out more"
+msgstr "En savoir plus "
+
+msgid "Finish"
+msgstr "Finir"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Footer"
+msgstr "Pied-de-page"
+
+msgid "Footer 1"
+msgstr "Pied de page 1 "
+
+msgid "Footer 2"
+msgstr "Pied de page 2 "
+
+msgid "Footer 3"
+msgstr "Pied-de-page 3 "
+
+msgid "Footer 4"
+msgstr "Pied-de-page 4"
+
+msgid "Footer Background Color"
+msgstr "Pied de page couleur de fond"
+
+msgid "Footer Bottom"
+msgstr "Bas du pied de page"
+
+msgid "Footer menu"
+msgstr "Menu pied-de-page"
+
+msgid "Forever"
+msgstr "Pour toujours "
+
+msgid "Forgot Password?"
+msgstr "Mot de passe oublié? "
+
+msgid "Forgot your password?"
+msgstr "Mot de passe oublié? "
+
+msgid "Forgotpass Mail Template"
+msgstr "Modèle de Email Mot de passe oublié"
+
+msgid "Format a number with grouped thousands"
+msgstr "Regrouper les nombre par 100  "
+
+msgid "Fr"
+msgstr "Dim "
+
+msgid "FrE Pricing"
+msgstr "Prix FrE "
+
+msgid "FrE Pricing block"
+msgstr "Gamme de Prix FrE "
+
+msgid "FrE Testimonial"
+msgstr "Recommandation FrE "
+
+msgid "Fraudulent"
+msgstr "Frauduleux  "
+
+msgid "Fraudulent or error!"
+msgstr "Fraude ou erreur! "
+
+msgid "Fre Order"
+msgstr "Fre Order"
+
+msgid "Free"
+msgstr "Gratuit "
+
+msgid "Free to submit listing"
+msgstr ""
+
+msgid "FreelanceEngine"
+msgstr "FreelanceEngine"
+
+msgid "Freelancer"
+msgstr "Freelancer"
+
+msgid "Freelancer Quit  Mail"
+msgstr "E-mail de départ du Freelance du projet "
+
+msgid "Freelancer Quit The Project"
+msgstr "Le freelance quitte le projet"
+
+msgid "Freelancer Report  Mail"
+msgstr "E-mail de signalement du freelance"
+
+msgid "Freelancer Review"
+msgstr "Avis du Freelance"
+
+msgid "Freelancer budget limitation"
+msgstr "Limitation de budget du freelance "
+
+msgid "Fri"
+msgstr "Ven "
+
+msgid "Friday"
+msgstr "vendredi "
+
+msgid "Front Page"
+msgstr "Page d'accueil"
+
+msgid "Full name"
+msgstr "Nom et prénom"
+
+msgid "Fullscreen Header menu"
+msgstr "Menu d'entête grand écran"
+
+msgid "Gateways"
+msgstr "Modes de paiement "
+
+msgid "General"
+msgstr "Généralités"
+
+msgid "General Settings"
+msgstr "Préférences générales"
+
+msgid "General setting"
+msgstr "Paramètres généraux "
+
+msgid "Get user data successfully!"
+msgstr "Obtenir des données de l'utilisateur avec succès!  "
+
+msgid "Get users successfull"
+msgstr "Obtention d'utilisateurs réussie!  "
+
+msgid "Google API"
+msgstr "Clé API Google  "
+
+msgid "Google API "
+msgstr "API Google "
+
+msgid "Google Analytics Script"
+msgstr "Script Google Analytics  "
+
+msgid "Google Plus URL"
+msgstr "URL Google Plus "
+
+msgid "Google Secret key "
+msgstr "Google clé secrète "
+
+msgid "Google analytics is a service offered by Google that generates detailed statistics about the visits to a website."
+msgstr "Google Analytics est un service offert par Google qui génère des statistiques détaillées sur les visites d'un site web. "
+
+msgid "Google key "
+msgstr "Clé API Google "
+
+msgid "Google reCaptcha"
+msgstr "Google reCAPTCHA "
+
+msgid "Google secret key"
+msgstr "clé secrète Google "
+
+msgid "Google+"
+msgstr "Google+ "
+
+msgid "Got error, please contact site administrator"
+msgstr "Obtenu l’erreur, s’il vous plaît contactez l’administrateur du site "
+
+msgid "HIDE ADVANCED SEARCH"
+msgstr "CACHER LA RECHERCHE AVANCEE "
+
+msgid "HIRED"
+msgstr "EMBAUCHÉ "
+
+msgid "Have a new post on your site."
+msgstr ""
+
+msgid "Have a new report on project %s."
+msgstr "Vous avez un nouveau rapport sur le projet %s.  "
+
+msgid "Header"
+msgstr "En-tête (header)"
+
+msgid "Header Background Color"
+msgstr "Couleur du fond de l'entête  « header »"
+
+msgid "Header Video"
+msgstr "Vidéo d'entête "
+
+msgid "Heading"
+msgstr "Entete"
+
+msgid ""
+"Hi ###USERNAME###,\n"
+"    Your administration email has just been changed on ###SITENAME###.\n"
+"    If it is correct, please click on the following link to confirm your change:\n"
+"    ###LINK###\n"
+"\n"
+"    Otherwise, you are free to ignore this email.\n"
+"\n"
+"    Regards,\n"
+"    All at ###SITENAME###\n"
+"    ###SITEURL###"
+msgstr ""
+"Bonjour ### USERNAME ###, \n"
+"Votre email vient d'être changé sur ### SITENAME ###. \n"
+"Si la modification est correcte, veuillez cliquer sur le lien suivant pour confirmer votre modification: \n"
+"### LINK ### \n"
+"Sinon, veuillez simplement ignorer cet e-mail. \n"
+"Cordialement, \n"
+"### SITENAME ### \n"
+"### SITEURL ### "
+
+msgid "Hide Details"
+msgstr "Masquer les détails "
+
+msgid "Hire"
+msgstr "Embaucher "
+
+msgid "Hired"
+msgstr "Embauché "
+
+msgid "Hires:"
+msgstr "Embauchés:  "
+
+msgid "History (%s)"
+msgstr "Historique (%s) "
+
+msgid "Home"
+msgstr "Page d'accueil"
+
+msgid "Home page"
+msgstr "Page d’accueil "
+
+msgid "Hong Kong Dollar"
+msgstr "Dollar Hong Kong  "
+
+msgid "Hourly Rate"
+msgstr "Taux Horaire "
+
+msgid "Hourly Rate:"
+msgstr "Taux Horaire:"
+
+msgid "Hourly rate"
+msgstr "Taux horaire "
+
+msgid "I agree with the <a href=\"%s\" target=\"_Blank\">Term of Use and Privacy policy</a>"
+msgstr "Je suis d’accord avec <a href=« %s »> les conditions d’utilisations et la politique de confidentialité</a> "
+
+msgid "I'm looking to:"
+msgstr "Je veux:"
+
+msgid "ID"
+msgstr "ID "
+
+msgid "INFO"
+msgstr "INFORMATION"
+
+msgid "If you enable this option, freelancers have to be invited first before bidding a project."
+msgstr "Si vous activez cette option, les freelances doivent être invités avant d'enchérir un projet. "
+
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr "Si vous désirez styliser différemment du contenu particulier, utilisez ce champ pour ajouter un nom de classe additionnelle puis servez-vous en dans votre feuille de style. "
+
+msgid "Image Files"
+msgstr "Fichiers image  "
+
+msgid "Import Data Successfully."
+msgstr "Importation réussie avec succès !  "
+
+msgid "In  Demo mode the 2Checkout order number is changed to '1' which will cause the hash to fail this. This is intentional so that merchants selling downloadable products and services can compare the hash to determine whether to provide a product to a customer"
+msgstr "En mode démo, le numéro de commande 2Checkout est remplacée par « 1 », ce qui provoquera le hachage à l’échec de ce. Ceci est intentionnel afin que les commerçants vendant des produits téléchargeables et services peuvent comparer le hash pour déterminer s’il faut fournir un produit à un client"
+
+msgid "In Process"
+msgstr "En cours "
+
+msgid "In Progress"
+msgstr "En Progression "
+
+msgid "Inbox Mail"
+msgstr "Boîte de réception  "
+
+msgid "Inbox Mail Template"
+msgstr "Boîte de réception Modèle courrier "
+
+msgid "Input invalid"
+msgstr "Entrée invalide  "
+
+msgid "Insert sample data"
+msgstr "Insérez des données d'échantillon  "
+
+msgid "Insert sample data false"
+msgstr "Insérez des exemples de données fausses  "
+
+msgid "Install"
+msgstr "Installer  "
+
+msgid "Install Plugins"
+msgstr "Installer les extensions (plugins)"
+
+msgid "Install Required Plugins"
+msgstr "Installer les Plugins demandés"
+
+msgid "Install package not available."
+msgstr "Paquet d’installation non disponible. "
+
+msgid "Install sample data"
+msgstr "Installer les exemples de données"
+
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé(e)"
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation d’extension %1$s (%2$d/%3$d)"
+
+msgid "Installing Plugin: %s"
+msgstr "Installer l’extension: %s"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et Activation du plugin %1$s (%2$d/%3$d)"
+
+msgid "Installing the plugin&#8230;"
+msgstr "Installation Plugins: %s "
+
+msgid "Invalid Activation Key"
+msgstr "Clé d’activation invalide.  "
+
+msgid "Invalid Activation Key."
+msgstr "Clé d’activation non valide  "
+
+msgid "Invalid Ad ID"
+msgstr "Identifiant de publication non valable"
+
+msgid "Invalid Order or Package"
+msgstr "Commande non valide ou paquet "
+
+msgid "Invalid Payment package"
+msgstr "Paquet de paiement non valide "
+
+msgid "Invalid Post ID"
+msgstr "Identifiant de publication non valable"
+
+msgid "Invalid User Name"
+msgstr "Nom d’utilisateur incorrect.  "
+
+msgid "Invalid bid"
+msgstr "Offre non valide "
+
+msgid "Invalid file name!"
+msgstr "Le nom de fichier spécifié n'est pas valide.  "
+
+msgid "Invalid method"
+msgstr "Méthode non valide  "
+
+msgid "Invalid order ID"
+msgstr "Numéro de commande invalide "
+
+msgid "Invalid paykey."
+msgstr "paykey non valide. "
+
+msgid "Invalid payment gateway"
+msgstr "Passerelle de paiement non valide  "
+
+msgid "Invalid project id."
+msgstr "ID de projet non valide  "
+
+msgid "Invalid project."
+msgstr "ID de projet non valide "
+
+msgid "Invite"
+msgstr "Inviter"
+
+msgid "Invite %s to bid project"
+msgstr "Inviter %s à faire une offre sur le projet  "
+
+msgid "Invite Mail"
+msgstr "Email d'invitation "
+
+msgid "Invite Mail Template"
+msgstr "Modèle d'email d'invitation "
+
+msgid "Invite me to join"
+msgstr "M’inviter à rejoindre"
+
+msgid "Invited To Bid"
+msgstr "Invité à faire une offre "
+
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Il semble que rien n'a été trouvé à cet endroit. Tenter une recherche peut-être?  "
+
+msgid "It would take up to a few minutes for your images to be uploaded to the server. Please don't close or reload this page."
+msgstr "Il faudra quelques minutes pour que vos images soient téléchargées vers le serveur. Veuillez ne pas fermer ou recharger cette page.  "
+
+msgid "Jan"
+msgstr "Janvier "
+
+msgid "January"
+msgstr "Janvier "
+
+msgid "Japanese Yen"
+msgstr "Yen Japonais "
+
+msgid "Job in process"
+msgstr "Travail en cours "
+
+msgid "Job is closed"
+msgstr "Le projet est fermé "
+
+msgid "Job is completed"
+msgstr "Le travail est terminé "
+
+msgid "Job is open"
+msgstr "Le projet est ouvert"
+
+msgid "Join on %s"
+msgstr "Inscrivez-vous sur %s  "
+
+msgid "Jul"
+msgstr "Juillet "
+
+msgid "July"
+msgstr "Juillet "
+
+msgid "Jun"
+msgstr "Jui "
+
+msgid "June"
+msgstr "Juin "
+
+msgid "Keep in touch"
+msgstr "Restez en contact"
+
+msgid "Keyword"
+msgstr "Mot-clé "
+
+msgid "LOGIN"
+msgstr "SE CONNECTER"
+
+msgid "Language"
+msgstr "Langue  "
+
+msgid "Language name"
+msgstr "Nom de la langue  "
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Leave a Reply to %s"
+msgstr "Laissez une réponse à %s"
+
+msgid "Left"
+msgstr "Gauche "
+
+msgid "License Key"
+msgstr "Clé de licence "
+
+msgid "Limit Free Plan Use"
+msgstr "Limites du forfait gratuit"
+
+msgid "LinkedIn API"
+msgstr "API Linkedin "
+
+msgid "LinkedIn API "
+msgstr "API Linkedin "
+
+msgid "LinkedIn API Key"
+msgstr "Clé d’API Linkedin "
+
+msgid "LinkedIn secret key"
+msgstr "Clé secrète de Linkedin "
+
+msgid "Linkedin"
+msgstr "LinkedIn "
+
+msgid "List profiles"
+msgstr "Liste de profils "
+
+msgid "List projects"
+msgstr "liste de projets "
+
+msgid "Load more"
+msgstr "Télécharger plus "
+
+msgid "Load older message"
+msgstr "Messages plus anciens "
+
+msgid "Loading"
+msgstr "Chargement  "
+
+msgid "Loading successfully!"
+msgstr "Téléchargement réussi !  "
+
+msgid "Loading..."
+msgstr "Chargement...  "
+
+msgid "Location"
+msgstr "Lieu "
+
+msgid "Log Out"
+msgstr "Se déconnecter "
+
+msgid "Log out"
+msgstr "Déconnexion "
+
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr "Connecté en tant que <span class=« name »>%s<span>  "
+
+msgid "Login"
+msgstr "SE CONNECTER "
+
+msgid "Login Your Account"
+msgstr "Connectez-vous sur votre compte  "
+
+msgid "Login in admin panel"
+msgstr "Connexion au panneau d’administration "
+
+msgid "Login information is missing"
+msgstr "Les informations de connexion sont manquantes "
+
+msgid "Login or Register"
+msgstr "Se connecter ou s’enregistrer "
+
+msgid "Login page"
+msgstr "Page de connexion "
+
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgid "Loop Header Video"
+msgstr "Boucle de vidéo d’en-tête"
+
+msgid "MD5 False"
+msgstr "MD5 Faux "
+
+msgid "MEMBERS"
+msgstr "Membres "
+
+msgid "MENU"
+msgstr "MENU"
+
+msgid "MESSAGE"
+msgstr "MESSAGE "
+
+msgid "MORE SETTINGS"
+msgstr "PLUS DE PARAMETRES"
+
+msgid "Mail description here"
+msgstr "Description d'adresse mail ici "
+
+msgid "Mailing"
+msgstr "Mailing "
+
+msgid "Main Color"
+msgstr "Couleur principale"
+
+msgid "Main color"
+msgstr "Couleur principale"
+
+msgid "Make this block highlight"
+msgstr "Mettre ce bloc  en surbrillance "
+
+msgid "Make this post featured in listing."
+msgstr "Mettre cette publication à la une  "
+
+msgid "Manage how your FreelanceEngine looks and feels"
+msgstr "Gérer la customisation de votre FreelanceEngine  "
+
+msgid "Manual Transfer"
+msgstr "Transfert manuel "
+
+msgid "Mar"
+msgstr "mars "
+
+msgid "March"
+msgstr "Mars "
+
+msgid "Max Number Of Project Categories"
+msgstr "Nombre maximum de catégories de projets "
+
+msgid "Maximum Number of Categories"
+msgstr "Nombre maximum de catégories "
+
+msgid "Maximum Number of Skills"
+msgstr "Nombre maximum de compétences "
+
+msgid "May"
+msgstr "Mai "
+
+msgid "Md5 check sum not match!"
+msgstr "Md5 somme de contrôle ne correspond pas"
+
+msgid "Member Since %s"
+msgstr "Membre depuis le %s "
+
+msgid "Members"
+msgstr "Membres  "
+
+msgid "Menus"
+msgstr "Menus"
+
+msgid "Message review profile "
+msgstr "Avis sur votre profil "
+
+msgid "Missing image ID"
+msgstr "ID de l'image manquante  "
+
+msgid "Mo"
+msgstr "Lun "
+
+msgid "Mobile Icon"
+msgstr "Icône sur mobile "
+
+msgid "Mobile Logo"
+msgstr "Logo pour Mobile "
+
+msgid "Mobile logo"
+msgstr "Logo site mobile "
+
+msgid "Mobile menu"
+msgstr "Menu mobile"
+
+msgid "Modify the sample \"About us, Contact us, ...\" pages or add your extra pages when needed."
+msgstr "Modifier l'exemple \"A propos de nous, Contactez-nous, ...\" pages ou ajoutez vos pages supplémentaires si nécessaire."
+
+msgid "Modify your site information, social links, analytics script, or add a language, etc."
+msgstr "Modifier les informations de votre site, liens sociaux, l'analyse de script, ou ajouter une langue, etc."
+
+msgid "Mon"
+msgstr "Lundi "
+
+msgid "Monday"
+msgstr "Lundi "
+
+msgid "Money Transfered"
+msgstr "Argent transféré"
+
+msgid "More Payments"
+msgstr "Plus de paiements  "
+
+msgid "More Users"
+msgstr "Utilisateurs supplémentaires  "
+
+msgid "Move jobs to"
+msgstr "Déplacer des projets vers   "
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "New Bid Mail Template"
+msgstr "Nouveau modèle de courrier d'offres"
+
+msgid "New Bid plan"
+msgstr "Nouveau Pack d'offres "
+
+msgid "New Message Mail Template"
+msgstr "Nouveau modèle de message Courrier "
+
+msgid "New Pack"
+msgstr "Nouveau pack "
+
+msgid "New Password"
+msgstr "Nouveau mot de passe "
+
+msgid "New Project Category Name"
+msgstr "Nom de la nouvelle catégorie de projet "
+
+msgid "New Project For You Today!"
+msgstr "Nouveau projet pour vous aujourd'hui !  "
+
+msgid "New Project Mail"
+msgstr "E-mail de nouveau projet"
+
+msgid "New Project Mail Template"
+msgstr "Modèle d'e-mail de nouveau projet"
+
+msgid "New Project Type Name"
+msgstr "Nom du nouveau type de projet"
+
+msgid "New Report was sent to Admin"
+msgstr "Un nouveau rapport a été envoyé à l'admin  "
+
+msgid "New Skill Name"
+msgstr "Nom de la nouvelle compétence  "
+
+msgid "New Testimonial"
+msgstr "Nouvelle recommandation"
+
+msgid "New Zealand Dollar"
+msgstr "Dollar néo-zélandais "
+
+msgid "New bid"
+msgstr "Nouvelle offre "
+
+msgid "New bid on %s"
+msgstr "Nouvelle offre sur %s  "
+
+msgid "New comment on %s"
+msgstr "Nouveau commentaire sur %s  "
+
+msgid "New confirm email already send to your email account."
+msgstr "Un email de confirmation a été déjà envoyé à votre compte de messagerie.  "
+
+msgid "New country Name"
+msgstr "Nouveau nom de pays "
+
+msgid "New message on project %s"
+msgstr "Nouveau message sur le projet %s  "
+
+msgid "New notification"
+msgstr "Nouvelle notification  "
+
+msgid "New password"
+msgstr "Nouveau mot de passe "
+
+msgid "New portfolio"
+msgstr "Nouveau portefeuille "
+
+msgid "New profile"
+msgstr "Nouveau profil "
+
+msgid "New project"
+msgstr "Nouveau projet "
+
+msgid "New project %s is created"
+msgstr "Nouveau projet %s est créé  "
+
+msgid "New? Click here to become a member"
+msgstr "Nouveau ? Cliquez ici pour devenir membre"
+
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents"
+
+msgid "Newest Projects first"
+msgstr "Derniers projets en premier"
+
+msgid "Next tab"
+msgstr "Onglet suivant"
+
+msgid "No"
+msgstr "Non "
+
+msgid "No Bid plan found"
+msgstr "Aucun plan d'offre trouvé "
+
+msgid "No Bid plans found in Trash"
+msgstr "Pas de packs trouvés dans la corbeille "
+
+msgid "No Bids found"
+msgstr "Aucune offre trouvée "
+
+msgid "No Bids found in Trash"
+msgstr "Aucune offre trouvée dans la corbeille "
+
+msgid "No Comments"
+msgstr "Aucun Commentaire"
+
+msgid "No Pack found"
+msgstr "Aucun pack trouvé  "
+
+msgid "No Profiles found"
+msgstr "Aucun profil trouvé "
+
+msgid "No Profiles found in Trash"
+msgstr "Pas de profils trouvés dans la corbeille "
+
+msgid "No Projects found"
+msgstr "Aucun projet trouvé "
+
+msgid "No Projects found in Trash"
+msgstr "Pas de projets trouvés dans la corbeille "
+
+msgid "No Testimonials found in Trash"
+msgstr "Aucun Témoignage trouvé dans la corbeille "
+
+msgid "No current bids."
+msgstr "Pas d'offres actuelles "
+
+msgid "No notifications found"
+msgstr "Aucune notification trouvée  "
+
+msgid "No notifications found in Trash"
+msgstr "Aucune notification trouvée dans la corbeille  "
+
+msgid "No order found by your query."
+msgstr "Aucune commande trouvée par votre requête.  "
+
+msgid "No place found"
+msgstr "Aucun lieu trouvé "
+
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n&#39;est disponible à l&#39;activation pour le moment. "
+
+msgid "No plugins are available to be installed at this time."
+msgstr "Pas de plugin disponible pour être installé à cet instant. "
+
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Aucune extension à installer ou activer. <a href=\"%1$s\" title=\"Retour vers tableau de bord\"> Retour vers tableau de bord</a> "
+
+msgid "No portfolio found"
+msgstr "Aucun portefeuille trouvé  "
+
+msgid "No portfolios found in Trash"
+msgstr "Pas de portefeuilles trouvés dans la corbeille  "
+
+msgid "No posts yet!"
+msgstr "Il n’y pas encore de publication ! "
+
+msgid "No testimon found"
+msgstr "Pas de recommandations "
+
+msgid "No user found by your query"
+msgstr "Aucun utilisateur trouvé par votre requête  "
+
+msgid "NoPacks found in Trash"
+msgstr "Pas de  Packs trouvés dans la poubelle  "
+
+msgid "Not Found"
+msgstr "Introuvable"
+
+msgid "Not Installed"
+msgstr "Non installé "
+
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "Pas suffisamment d'espace pour importer un fichier.%1$s KB nécessaire.  "
+
+msgid "Not owned this image!"
+msgstr "Cette image ne vous appartient pas! "
+
+msgid "Notes"
+msgstr "Remarques "
+
+msgid "Notification"
+msgstr "Notification"
+
+msgid "Notifications"
+msgstr "Notifications  "
+
+msgid "Notify the admin via email whenever the site gets new user registration."
+msgstr "Notifier l’administrateur par email pour chaque enregistrement d'utilisateur "
+
+msgid "Nov"
+msgstr "nov "
+
+msgid "November"
+msgstr "Novembre "
+
+msgid "Number Format"
+msgstr "Format de nombre "
+
+msgid "Number of Plan"
+msgstr "Nombre de forfait "
+
+msgid "Number of decimal points"
+msgstr "Nombre de décimales "
+
+msgid "Number of posts"
+msgstr "Nombre de publications "
+
+msgid "Number of project can post"
+msgstr "Nombre de projets possibles"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "OVERVIEW"
+msgstr "Aperçu "
+
+msgid "Oct"
+msgstr "Oct "
+
+msgid "October"
+msgstr "Octobre "
+
+msgid "Old Password"
+msgstr "Ancien mot de passe "
+
+msgid "Old password"
+msgstr "Ancien mot de passe "
+
+msgid "Old password does not match!"
+msgstr "L’ancien mot de passe ne correspond pas !  "
+
+msgid "On background have 2 color, it is the gray"
+msgstr "L'arrière plan a 2 couleurs, c'est le gris"
+
+msgid "Oops, You must be invited to bid this project"
+msgstr "Vous devez être invité pour faire une offre sur ce projet"
+
+msgid "Open"
+msgstr "Ouvrir "
+
+msgid "Open Workspace"
+msgstr "Ouvrir l'Espace de Travail  "
+
+msgid "Open Workspace "
+msgstr "Ouvrir l'Espace de Travail "
+
+msgid "Open workspace"
+msgstr "Ouvrir l'espace de travail "
+
+msgid "Opening"
+msgstr "Ouverture "
+
+msgid "Order"
+msgstr "Commande "
+
+msgid "Order list project categories by."
+msgstr "Classement des catégories de projets rangée par"
+
+msgid "Order list project types by."
+msgstr "Liste des types de projet classé par "
+
+msgid "Orderby"
+msgstr "Commandé par"
+
+msgid "Overview"
+msgstr "Aperçu"
+
+msgid "Overview of all payments"
+msgstr "Aperçu de tous les paiements  "
+
+msgid "Overview of registered members"
+msgstr "Vue d’ensemble des inscritsvv"
+
+msgid "Overview:"
+msgstr "Aperçu "
+
+msgid "PAYMENTS"
+msgstr "PAIEMENTS "
+
+msgid "PENDING"
+msgstr "En attente  "
+
+msgid "POSTED DATE"
+msgstr "DATE DE PUBLICATION"
+
+msgid "PROJECT TITLE"
+msgstr "TITRE DU PROJET"
+
+msgid "Pack"
+msgstr "Pack  "
+
+msgid "Package name"
+msgstr "Nom du forfait"
+
+msgid "Packages:"
+msgstr "Packs:  "
+
+msgid "Packs"
+msgstr "Packs  "
+
+msgid "Page %s"
+msgstr "Page %s "
+
+msgid "Page Options"
+msgstr "Options de la Page"
+
+msgid "Page Sidebar"
+msgstr "Barre latérale de la page "
+
+msgid "Pages"
+msgstr "Pages:"
+
+msgid "Pages:"
+msgstr "Pages: "
+
+msgid "Paginate"
+msgstr "Paginer "
+
+msgid "Parent Project Category"
+msgstr "Catégorie de projet parent "
+
+msgid "Parent Project Type"
+msgstr "Type de projet parent "
+
+msgid "Parent Skill"
+msgstr "Compétence Parente  "
+
+msgid "Parent bid:"
+msgstr "Offre parente: "
+
+msgid "Parent country"
+msgstr "Pays parent "
+
+msgid "Parent notification:"
+msgstr "notification Parent:  "
+
+msgid "Parent portfolio:"
+msgstr "Portefeuille parent:  "
+
+msgid "Parent profile:"
+msgstr "Profil parent : "
+
+msgid "Parent project:"
+msgstr "Projet parent: "
+
+msgid "Password"
+msgstr "Mot de passe "
+
+msgid "Password field is required."
+msgstr "Le champ Mot de passe est obligatoire."
+
+msgid "Password reset is not allowed for this user"
+msgstr "Réinitialisation de mot de passe non autorisée pour cet utilisateur  "
+
+msgid "Pay to Bid"
+msgstr "Payer pour faire une offre "
+
+msgid "Payer of commission"
+msgstr "Payer des commissions "
+
+msgid "Payer of fees"
+msgstr "Payeur de taxes "
+
+msgid "Payment"
+msgstr "Paiement "
+
+msgid "Payment Currency"
+msgstr "Monnaie de paiement "
+
+msgid "Payment False"
+msgstr "Paiement faux "
+
+msgid "Payment Gateways"
+msgstr "Mode de paiement "
+
+msgid "Payment Plans"
+msgstr "Forfaits de paiement"
+
+msgid "Payment Test Mode"
+msgstr "Test du mode de paiement "
+
+msgid "Payment fail, friend"
+msgstr "Paiement échoué "
+
+msgid "Payment plans have been sorted"
+msgstr "Les packs de projets ont été triés "
+
+msgid "Payment refund successful."
+msgstr "Remboursement de paiement réussi. "
+
+msgid "Payments"
+msgstr "Paiements  "
+
+msgid "Paypal"
+msgstr "Paypal "
+
+msgid "Paypal API"
+msgstr "Api PayPal  "
+
+msgid "Paypal Settings"
+msgstr "Paramètres PayPal "
+
+msgid "Paypal fees"
+msgstr "Frais Paypal  "
+
+msgid "Paypal option is disabled because of invalid setting."
+msgstr "L'option Paypal est désactivée en raison de paramètre incorrect. "
+
+msgid "Pending"
+msgstr "En suspens "
+
+msgid "Pending Post"
+msgstr "En attente de validation "
+
+msgid "Percent finished"
+msgstr "Pourcentage accompli "
+
+msgid "Permission Denied!"
+msgstr "Permission refusée! "
+
+msgid "Place Categories"
+msgstr "Catégories: "
+
+msgid "Place Locations"
+msgstr "Lieux  "
+
+msgid "Places"
+msgstr "Lieux "
+
+msgid "Please assign project before complete."
+msgstr "S'il vous plaît attribuer le projet avant de terminer."
+
+msgid "Please complete your profile information and enable \"Available for hire\" function at page Profile!"
+msgstr "S’il vous plaît compléter les informations de votre profil et activez la fonction « Disponible » à la page profil ! "
+
+msgid "Please enter a valid URL."
+msgstr "S'il vous plaît, entrez un lien valide. "
+
+msgid "Please enter a valid captcha!"
+msgstr "Veuillez saisir un Captcha valide! "
+
+msgid "Please enter a valid credit card number."
+msgstr "Veuillez entrer un numéro de carte de crédit valide.  "
+
+msgid "Please enter a valid date."
+msgstr "Veuillez entrer une date valide. "
+
+msgid "Please enter a valid email address."
+msgstr "Veuillez entrer une adresse email valide. "
+
+msgid "Please enter a valid number in budget or bid time"
+msgstr "Veuillez entrer un numéro valide pour le prix ou la durée de l'offre "
+
+msgid "Please enter a valid number."
+msgstr "Veuillez saisir un numéro valide"
+
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "S'il vous plaît entrez des valeurs comprises entre {0} et {1}caractères "
+
+msgid "Please enter a value between {0} and {1}."
+msgstr "Entrez une valeur entre  {0} et {1}. "
+
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "S'il vous plaît entrez des valeurs supérieures ou égales à {0}. "
+
+msgid "Please enter a value less than or equal to {0}."
+msgstr "S'il vous plaît entrez des valeurs inférieures ou égales à {0}. "
+
+msgid "Please enter a value with a valid extension."
+msgstr "S'il vous plaît, entrez une valeur avec une extension valide. "
+
+msgid "Please enter at least {0} characters."
+msgstr "S'il vous plaît, entrez moins de {0} caractères."
+
+msgid "Please enter no more than {0} characters."
+msgstr "S'il vous plaît, n'entrez pas plus de {0} caractères."
+
+msgid "Please enter only digits."
+msgstr "Veuillez entrer uniquement des chiffres.  "
+
+msgid "Please enter the same value again."
+msgstr "Entrez à nouveau la même valeur s'il vous plait. "
+
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr "S'il vous plaît entrez votre client id Google et clé secrète dans la page de réglage!  "
+
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr "S'il vous plaît entrez votre ID App Linkedin et clé secrète! "
+
+msgid "Please enter your bid message."
+msgstr "Veuillez saisir un message pour votre offre. "
+
+msgid "Please enter your new password"
+msgstr "Entrez votre nouveau mot de passe  "
+
+msgid "Please fill all require fields."
+msgstr "Veuillez remplir tous les champs requis. "
+
+msgid "Please fill in a valid email!"
+msgstr "Veuillez utiliser une adresse e-mail valide  "
+
+msgid "Please fill out the form below "
+msgstr "S'il vous plaît, remplissez le formulaire ci-dessous "
+
+msgid "Please give us a clear report"
+msgstr "S'il vous plaît, veuillez nous exposer un rapport clair"
+
+msgid "Please login by using your Facebook account again!"
+msgstr "Veuillez vous connecter en utilisant votre compte Facebook à nouveau!"
+
+msgid "Please login to bid a project"
+msgstr "Veuillez vous connecter pour faire une offre "
+
+msgid "Please post a review for this freelancer."
+msgstr "Veuillez écrire une critique pour ce freelance."
+
+msgid "Please provide a username to continue"
+msgstr "Veuillez fournir un nom d’utilisateur pour continuer "
+
+msgid "Please provide a valid email"
+msgstr "Veuillez fournir une adresse e-mail valide "
+
+msgid "Please select an image!"
+msgstr "Veuillez sélectionner une image!"
+
+msgid "Please send your payment to account number: XXXX. Once payment has been verified, admin will approve your post or request."
+msgstr "Veuillez envoyer votre paiement au numéro de compte : XXXX. Une fois que le paiement a été vérifié, l’administrateur va approuver votre message ou requête. "
+
+msgid "Please wait 2 minutes after each action submission."
+msgstr "Attendez 2 minutes après chaque soumission.  "
+
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr "Veuillez attendre 5 minutes pour recevoir un code d’activation !  "
+
+msgid "Plugin"
+msgstr "Extension "
+
+msgid "Plugin activated successfully."
+msgstr "Le plugin a été activé avec succès."
+
+msgid "Plugin activation failed."
+msgstr "L’activation du plugin a échoué. "
+
+msgid "Plugin install failed."
+msgstr "Échec de l'installation du plugin "
+
+msgid "Plugin installed successfully."
+msgstr "Plugin activé avec succès. "
+
+msgid "Plus"
+msgstr "Google Plus "
+
+msgid "Point"
+msgstr "Point "
+
+msgid "Popular Project Categories"
+msgstr "Catégories de Projets Populaires "
+
+msgid "Popular Project Types"
+msgstr "Types de Projets Populaires "
+
+msgid "Popular Skills"
+msgstr "Compétences Populaires  "
+
+msgid "Popular countries"
+msgstr "Les pays les plus populaires "
+
+msgid "Portfolio"
+msgstr "Portefeuille  "
+
+msgid "Portfolio Title"
+msgstr "Titre du portefeuille "
+
+msgid "Portfolio has been created successfully."
+msgstr "Le Portefeuille a été créé avec succès.  "
+
+msgid "Portfolio has been deleted successfully."
+msgstr "Le Portefeuille a été supprimé avec succès."
+
+msgid "Portfolio has been updated successfully."
+msgstr "Le Portefeuille a été mis à jour. "
+
+msgid "Portfolios"
+msgstr "Portfolios  "
+
+msgid "Post Project"
+msgstr "Publier un projet "
+
+msgid "Post a Project"
+msgstr "Publier un projet"
+
+msgid "Post ad"
+msgstr "Publier une annonce   "
+
+msgid "Post author information is incorrect!"
+msgstr "Les informations de l'auteur de cette publication sont incorrectes!"
+
+msgid "Post not found!"
+msgstr "Publication introuvable!  "
+
+msgid "Posted Projects (%s)"
+msgstr "Projet(s) Publié(s) (%s) "
+
+msgid "Posted by %s"
+msgstr "Publié par %s  "
+
+msgid "Posted projects (%d)"
+msgstr "Projet(s) publié(s) (%d)"
+
+msgid "Posts"
+msgstr "Publications"
+
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged "
+
+msgid "Press Enter"
+msgstr "Appuyez sur Entrer"
+
+msgid "Press Enter to keep adding skills"
+msgstr "Appuyez sur Entrer pour continuer à ajouter des compétences "
+
+msgid "Prevent directly login to admin page."
+msgstr "Empêcher la connexion directe à la page d'administration."
+
+msgid "Previous tab"
+msgstr "Onglet précédent "
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Primary receiver pays all fees"
+msgstr "Le récepteur principal paye tous les frais  "
+
+msgid "Private Message!"
+msgstr "Message privé! "
+
+msgid "Private Repository"
+msgstr "Répertoire Privé "
+
+msgid "Proceed"
+msgstr "Continuez ! "
+
+msgid "Professional Title"
+msgstr "Titre professionnel "
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Profile Color"
+msgstr "Couleur du profil"
+
+msgid "Profile Demonstration"
+msgstr "Démo de profil"
+
+msgid "Profile Details"
+msgstr "Détails du Profil"
+
+msgid "Profile demonstration on header video background which can be view by freelancer"
+msgstr "Démo sur la vidéo d'arrière-plan de la vidéo qui peut être vue par le freelancer"
+
+msgid "Profile main color, such as link, title, create project button"
+msgstr "Couleur principale du profile, comme le lien, le titre, le bouton de création de projet"
+
+msgid "Profile main color, such as professional title"
+msgstr "Couleur principale du profil, comme le titre professionnel"
+
+msgid "Profile of %s"
+msgstr "Profil de %s"
+
+msgid "Profiles"
+msgstr "Freelances "
+
+msgid "Profiles Listing"
+msgstr "Liste des Freelances"
+
+msgid "Profiles demonstration on list profiles page which can be view by employer"
+msgstr "Démos de profils sur sur la page des listes de profiles qui peut être vue par l'employeur"
+
+msgid "Profiles listing page Slug"
+msgstr "Slug de la page Liste de profils"
+
+msgid "Project"
+msgstr "Projet"
+
+msgid "Project %s has been completed and money has transfered."
+msgstr "Le projet %s est terminé et l'argent a été transféré.  "
+
+msgid "Project %s has been completed and money has transfered. You can check workspace and project details"
+msgstr "Le projet %s est terminé et l'argent a été transféré. Vous pouvez vérifier l'espace de travail et les détails du projet.  "
+
+msgid "Project %s has been completed and waiting your confirm."
+msgstr "Le projet %s est terminé et attend votre confirmation.  "
+
+msgid "Project %s has been completed. Please check it and transfer money to freelancer."
+msgstr "Le projet %s est terminé. Veuillez vérifier et transférer l'argent au freelance.  "
+
+msgid "Project %s was closed."
+msgstr "Le projet %s a été fermé.  "
+
+msgid "Project %s was completed"
+msgstr "Le projet %s est terminé  "
+
+msgid "Project %s you worked on has refunded."
+msgstr "Le projet %s sur lequel vous avez travaillé a été remboursé.  "
+
+msgid "Project Categories"
+msgstr "Catégories des Projets"
+
+msgid "Project Category"
+msgstr "Catégorie de projet "
+
+msgid "Project Category Order"
+msgstr "Classement des catégories des projets"
+
+msgid "Project Category page Slug"
+msgstr "Slug de la page de catégorie"
+
+msgid "Project Color"
+msgstr "Couleur de projet"
+
+msgid "Project Demonstration"
+msgstr "Démonstration de projet "
+
+msgid "Project Details"
+msgstr "Détails des Projets "
+
+msgid "Project Information"
+msgstr "Description du Projet  "
+
+msgid "Project Listing"
+msgstr "Liste des Projets "
+
+msgid "Project Related Mail Template"
+msgstr "Modèle de courrier lié au projet"
+
+msgid "Project Report Mail Template"
+msgstr "Modèle d'e-mail de signalement de projet "
+
+msgid "Project Reported by Freelancer"
+msgstr "Projet signalé par un freelance  "
+
+msgid "Project Title"
+msgstr "Titre du projet "
+
+msgid "Project Type"
+msgstr "Type de projet"
+
+msgid "Project Type Order"
+msgstr "Tri par type de projet "
+
+msgid "Project Type page Slug"
+msgstr "Slug de la page Type de projet"
+
+msgid "Project Types"
+msgstr "Types de projets"
+
+msgid "Project complete:"
+msgstr "Projet terminé: "
+
+msgid "Project demonstration on header video background which can be view by employer"
+msgstr "Démo sur la vidéo d'arrière-plan de l'en-tête qui peut être vue par l'employeur"
+
+msgid "Project demonstration on header video background which can be view by freelancer"
+msgstr "Démo sur la vidéo de l'arrière-plan de l'en-tête qui peut être vue par le freelance"
+
+msgid "Project description:"
+msgstr "Description du projet: "
+
+msgid "Project has been assign successful."
+msgstr "Le projet a été attribué avec succès. "
+
+msgid "Project owner"
+msgstr "Client "
+
+msgid "Project posted"
+msgstr "Projet(s) publié(s)"
+
+msgid "Project posted:"
+msgstr "Projet(s) publié(s)"
+
+msgid "Project type"
+msgstr "Type de projet"
+
+msgid "Project was Reported by Employer"
+msgstr "Le projet a été signalé par l'employeur  "
+
+msgid "Project you joined has a review."
+msgstr "Le projet que vous avez rejoint a un avis.  "
+
+msgid "Projects"
+msgstr "Projets "
+
+msgid "Projects Worked"
+msgstr "Projets réalisés :  "
+
+msgid "Projects listing page Slug"
+msgstr "Slug de page de liste de projet"
+
+msgid "Projects worked:"
+msgstr "Projets réalisés : "
+
+msgid "Publish Mail Template"
+msgstr "Modèle d'e-mail de publication "
+
+msgid "Query"
+msgstr "Requête "
+
+msgid "Quit"
+msgstr "Quitter "
+
+msgid "READ MORE"
+msgstr "EN SAVOIR PLUS "
+
+msgid "REJECTED"
+msgstr "REFUSÉS  "
+
+msgid "REPUTATION"
+msgstr "RÉPUTATION "
+
+msgid "Rate for \"%s\""
+msgstr "Tarif pour « %s » "
+
+msgid "Rate for this profile"
+msgstr "Noter ce profil "
+
+msgid "Rating"
+msgstr "Évaluation : "
+
+msgid "Rating:"
+msgstr "Évaluation :"
+
+msgid "Rearrange content elements or add more information in your front page to suit your needs."
+msgstr "Réorganiser les éléments de contenu ou ajouter plus d'informations dans votre page d'accueil en fonction de vos besoins."
+
+msgid "Reason"
+msgstr "Raison  "
+
+msgid "Receipt Mail Template"
+msgstr "Modèle de factures par e-mail "
+
+msgid "Receive emails about projects that match your categories"
+msgstr "Recevoir des emails au sujet des projets qui correspondent à vos catégories "
+
+msgid "Recommended"
+msgstr "Recommandé "
+
+msgid "Register"
+msgstr "S'inscrire "
+
+msgid "Register Mail"
+msgstr "Inscription Email "
+
+msgid "Register Mail Template"
+msgstr "Template de l'utilisateur pour l'enregistrement par e-mail "
+
+msgid "Reject"
+msgstr "Rejeter"
+
+msgid "Reject <span>%s</span>"
+msgstr "Rejeter <span>%s</span> "
+
+msgid "Reject Mail Template"
+msgstr "Rejeter le modèle de courrier de rejet "
+
+msgid "Remote file is incorrect size"
+msgstr "Le fichier est de taille incorrecte"
+
+msgid "Remote file is too large, limit is %s"
+msgstr "Le fichier distant est trop lourd, la limite est de %s "
+
+msgid "Remote server did not respond"
+msgstr "Le serveur distant n’a pas répondu "
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Le serveur isolé a renvoyé une réponse erreur %1$d %2$s "
+
+msgid "Remove"
+msgstr "Supprimer "
+
+msgid "Remove featured"
+msgstr "Retirer la mise en avant "
+
+msgid "Removed failed!"
+msgstr "Échec de la suppression "
+
+msgid "Removed successfully!"
+msgstr "Supprimer avec succès"
+
+msgid "Renew"
+msgstr "Renouveler"
+
+msgid "Repeat Passwords mismatch."
+msgstr "Répétez l’incompatibilité de mots de passe."
+
+msgid "Reply "
+msgstr "Répondre"
+
+msgid "Report"
+msgstr "Signaler"
+
+msgid "Report and Decision"
+msgstr "Rapport et décision "
+
+msgid "Request confirm email."
+msgstr "Demander un e-mail de confirmation. "
+
+msgid "Required"
+msgstr "Requis "
+
+msgid "Reset"
+msgstr "Reinitialiser"
+
+msgid "Reset failed!"
+msgstr "La réinitialisation a échoué"
+
+msgid "Reset successfully!"
+msgstr "Réinitialisé avec succès !"
+
+msgid "Resetpass Mail Template"
+msgstr "Modèle d'email Réinitialisation de mot de passe"
+
+msgid "Resetpassword Mail"
+msgstr "E-mail de réinitialisation de mot de passe "
+
+msgid "Resolve"
+msgstr "Résoudre "
+
+msgid "Resolve Dispute"
+msgstr "Régler le différend "
+
+msgid "Return to Required Plugins Installer"
+msgstr "Retour vers l'installation des extensions requises"
+
+msgid "Return to the Dashboard"
+msgstr "Retour au Tableau de bord "
+
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord "
+
+msgid "Retype New Password"
+msgstr "Retaper le nouveau mot de passe "
+
+msgid "Retype New password"
+msgstr "Retaper le nouveau mot de passe "
+
+msgid "Retype Password"
+msgstr "Comfirmez le mot de passe"
+
+msgid "Retype again"
+msgstr "Retaper  "
+
+msgid "Retype password"
+msgstr "Retapez le mot de passe "
+
+msgid "Retype password is not equal."
+msgstr "Le second mot de passe ne correspond pas.  "
+
+msgid "Retype your new password"
+msgstr "Confirmer votre nouveau mot de passe "
+
+msgid "Revenue"
+msgstr "Revenus  "
+
+msgid "Revenue(%s)"
+msgstr "Revenus (%s)  "
+
+msgid "Review & Complete"
+msgstr "Examinez et complétez "
+
+msgid "Review job"
+msgstr "Revue du projet "
+
+msgid "Review your Profile"
+msgstr "Voir votre profil"
+
+msgid "Right"
+msgstr "Droite "
+
+msgid "SAMPLE DATA"
+msgstr "EXEMPLE DE DONNEES"
+
+msgid "SEARCH"
+msgstr "RECHERCHER"
+
+msgid "SETTINGS"
+msgstr "Réglages "
+
+msgid "SETUP WIZARD"
+msgstr "Lancer l'assistant de configuration  "
+
+msgid "SIGN IN"
+msgstr "SE CONNECTER"
+
+msgid "SIGN IN WITH FACEBOOK"
+msgstr "CONNEXION AVEC FACEBOOK "
+
+msgid "SIGN IN WITH GOOGLE+"
+msgstr "CONNEXION AVEC GOOGLE+ "
+
+msgid "SIGN IN WITH LINKEDIN"
+msgstr "CONNEXION AVEC LINKEDIN "
+
+msgid "SIGN IN WITH TWITTER"
+msgstr "CONNEXION AVEC TWITTER "
+
+msgid "SIGN UP"
+msgstr "S'INSCRIRE "
+
+msgid "SKU"
+msgstr "UGS"
+
+msgid "SOCIAL LOGIN"
+msgstr "CONNEXION RESEAUX SOCIAUX "
+
+msgid "SUBMIT"
+msgstr "SOUMETTRE "
+
+msgid "Sa"
+msgstr "Sa "
+
+msgid "Sat"
+msgstr "Samedi "
+
+msgid "Saturday"
+msgstr "Samedi "
+
+msgid "Save"
+msgstr "Sauvegrder"
+
+msgid "Save Details"
+msgstr "Sauvegarder "
+
+msgid "Save Package"
+msgstr "Enregistrer le forfait"
+
+msgid "Save Plan"
+msgstr "Sauver le projet"
+
+msgid "Search Advanced"
+msgstr "Recherche avancée "
+
+msgid "Search Bid plans"
+msgstr "Rechercher un Pack "
+
+msgid "Search Bids"
+msgstr "Rechercher des offres "
+
+msgid "Search Packs"
+msgstr "recherche Packs "
+
+msgid "Search Profiles"
+msgstr "Recherche profils "
+
+msgid "Search Project Categories"
+msgstr "Rechercher les catégories de projet "
+
+msgid "Search Project Types"
+msgstr "Recherche de types de projets "
+
+msgid "Search Projects"
+msgstr "Rechercher des Projets "
+
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche : %s "
+
+msgid "Search Skills"
+msgstr "Rechercher des compétences  "
+
+msgid "Search Testimonials"
+msgstr "Recherche dans les Témoignages "
+
+msgid "Search at blog"
+msgstr "Rechercher dans le blog"
+
+msgid "Search countries"
+msgstr "Rechercher des Pays "
+
+msgid "Search notifications"
+msgstr "Chercher une notification  "
+
+msgid "Search portfolio"
+msgstr "Recherche portefeuille "
+
+msgid "Search post..."
+msgstr "Recherche publication... "
+
+msgid "Search users..."
+msgstr "Rechercher un utilisateur  "
+
+msgid "Searching"
+msgstr "Recherche"
+
+msgid "Searching Freelancers"
+msgstr "Recherche de freelances"
+
+msgid "Searching Projects"
+msgstr "Recherche de projets"
+
+msgid "Second color"
+msgstr "Couleur secondaire"
+
+msgid "Secondary Color"
+msgstr "Couleur Secondaire"
+
+msgid "Secondary receivers pay all fees"
+msgstr "Les récepteurs secondaires paient tous les frais    "
+
+msgid "Secret Key"
+msgstr "Clé secrète "
+
+msgid "Secret key"
+msgstr "Clé secrète "
+
+msgid "Security error!"
+msgstr "Erreur de sécurité  "
+
+msgid "Select"
+msgstr "Choisir"
+
+msgid "Select \"Yes\" to display a \"Hire me\" button on your profile allowing potential clients and employers to contact you."
+msgstr "Sélectionnez \"Oui\" pour afficher un bouton «Embauchez-moi\" sur votre profil permettant aux clients potentiels et aux employeurs de communiquer avec vous. "
+
+msgid "Select Country From A Predefined List"
+msgstr "Sélectionnez le pays dans une liste prédéfinie "
+
+msgid "Select Skill"
+msgstr "Sélectionner une compétence "
+
+msgid "Select Skill From A Predefined List"
+msgstr "Sélectionner une compétence dans une liste prédéfinie"
+
+msgid "Select User roles"
+msgstr "Sélectionnez les rôles d’utilisateurs "
+
+msgid "Select a status"
+msgstr "Sélectionner un statut "
+
+msgid "Select an option"
+msgstr "Choisir une option. "
+
+msgid "Select payment method"
+msgstr "Sélectionner une méthode de paiement  "
+
+msgid "Select project type"
+msgstr "Sélectionner le type de projet"
+
+msgid "Select the language you want to use for your website."
+msgstr "Sélectionnez la langue que vous souhaitez utiliser pour votre site web.  "
+
+msgid "Select the package plan for block 1"
+msgstr "Sélectionner le package du forfait pour le bloc 1 "
+
+msgid "Select the package plan for block 2"
+msgstr "Sélectionner le package du forfait pour le bloc 2"
+
+msgid "Select the package plan for block 3"
+msgstr "Sélectionner le package du forfait pour le bloc 3"
+
+msgid "Select the package plan for block 4"
+msgstr "Sélectionner le package du forfait pour le bloc 4"
+
+msgid "Select the type of commission you want to use."
+msgstr "Sélectionnez le type de commission que vous souhaitez utiliser. "
+
+msgid "Select the user role to pay for the commission."
+msgstr "Sélectionnez le rôle utilisateur pour payer pour la commission. "
+
+msgid "Select the user roles."
+msgstr "Sélectionnez les rôles d’utilisateurs "
+
+msgid "Select user roles"
+msgstr "Sélectionnez les rôles d’utilisateurs "
+
+msgid "Select video loop"
+msgstr "Sélection de la boucle de la vidéo "
+
+msgid "Select your pricing plan"
+msgstr "Choisissez votre solution tarifaire "
+
+msgid "Send"
+msgstr "Envoyer "
+
+msgid "Send payment successful."
+msgstr "Paiement réussi."
+
+msgid "Send to admin when user sends a report."
+msgstr "Envoyer à admin lorsque l'utilisateur envoie un rapport.  "
+
+msgid "Send to employer when freelancer cancel a bid."
+msgstr "Envoyer à l’employeur lorsque le freelance annule une offre d’achat."
+
+msgid "Send to employer when freelancer send report on project."
+msgstr "Envoyer au client lorsque le freelance envoie le rapport sur le projet.  "
+
+msgid "Send to freelancer when employer close project."
+msgstr "Envoyer au freelancer lorsque l'employeur ferme le projet."
+
+msgid "Send to freelancer when employer sends a report on the project."
+msgstr "Envoyer à Freelancer lorsque l'employeur envoie un rapport sur le projet. "
+
+msgid "Send to freelancer when his bid was accepted."
+msgstr "Envoyer au freelance, lorsque sa candidature a été acceptée."
+
+msgid "Send to freelancers when a new project which related to his profile category is posted."
+msgstr "Envoyer aux freelances lorsqu’un nouveau projet associé à leurs catégories de profil est affiché. "
+
+msgid "Send to the employer when the freelancer quits the project"
+msgstr "Envoyer à l'employeur lorsque le freelance quitte le projet"
+
+msgid "Send to user cash message when they pay by cash"
+msgstr "Envoyer un message à l'utilisateur de trésorerie quand ils paient en argent comptant "
+
+msgid "Send to user to notify him has resetpass successfully."
+msgstr "Envoyer à l'utilisateur pour lui notifier que la réinitialisation du mot de passe a été un succès. "
+
+msgid "Send to user when admin executes the escrow payment and send to the freelancer."
+msgstr "Envoyer à l'utilisateur lorsque admin exécute le paiement d'acompte et envoyer au freelance. "
+
+msgid "Send to user when project he worked on was marked complete."
+msgstr "Envoyer à l'utilisateur quand il a travaillé sur un projet notifié comme terminé. "
+
+msgid "Send to users after he registered successfull when option confirm email is on."
+msgstr "Envoyer aux utilisateurs après la validation de leur inscr lorsque l'option est sur Confirmez e-mail."
+
+msgid "Send to users after they finish a payment"
+msgstr "Envoyer aux utilisateurs après un paiement "
+
+msgid "Send to users to notify that he was confirm email successfull."
+msgstr "Envoyer aux utilisateurs pour avertir que la confirmation par e-mail est un succès."
+
+msgid "Send to users when admin refunds the escrow payment to the project's owner."
+msgstr "Envoyer aux utilisateurs lorsque l'option l'Admin rembourse le paiement d'acompte pour l'auteur du projet "
+
+msgid "Send to users when he have a new message on workspace."
+msgstr "Envoyer aux utilisateurs quand il ont un nouveau message sur l'espace de travail. "
+
+msgid "Send to users when he register successfull."
+msgstr "Envoyer aux utilisateurs quand l'inscription est validée. "
+
+msgid "Send to users when he request resetpass."
+msgstr "Envoyer aux utilisateurs quand ils demandent une réinitialisation du mot de passe."
+
+msgid "Send to users when someone contact him."
+msgstr "Envoyer aux utilisateurs lorsque quelqu'un les contacte."
+
+msgid "Send to users when someone invite him join a project"
+msgstr "Envoyer aux utilisateurs quand quelqu'un les invite à rejoindre un projet "
+
+msgid "Send your cash payment to our bank account"
+msgstr "Envoyez votre paiement en espèces à notre compte bancaire "
+
+msgid "Send your payment via 2Checkout."
+msgstr "Envoyez votre paiement par l’intermédiaire de 2Checkout. "
+
+msgid "Send your payment via Authorize.Net"
+msgstr "Envoyez votre paiement via Authorize.Net "
+
+msgid "Send your payment via Paypal."
+msgstr "Envoyez votre paiement via Paypal. "
+
+msgid "Sent to users to notify that one of their listing has been archived due to expiration or manual administrative action."
+msgstr "Envoyé aux utilisateurs de signaler que l'un de leur fiche a été archivée en raison de l'expiration ou de l'action administrative. "
+
+msgid "Sent to users to notify that one of their listing has been published."
+msgstr "Envoyé aux utilisateurs de signaler que l'un de leur annonce a été publiée. v"
+
+msgid "Sent to users to notify that one of their listing has been rejected."
+msgstr "Envoyé aux utilisateurs de signaler que l'un des leur inscription a été rejetée. "
+
+msgid "Sent to users when a candidate bid their projects."
+msgstr "Envoyés aux utilisateurs quand un candidat répond à un appel d'offres. "
+
+msgid "Sep"
+msgstr "septembre "
+
+msgid "September"
+msgstr "Septembre "
+
+msgid "Set a maximum number of categories freelancers can input in profile and employers can input when posting project."
+msgstr "Définissez le nombre maximum de catégories à affecter à un projet "
+
+msgid "Set a maximum number of skills freelancers can input in profile and employers can input when posting project."
+msgstr "Définir un nombre maximal de compétences qu'un freelance peut entrer dans le profil et que les employeurs peuvent introduire lors de la validation de projet."
+
+msgid "Set as featured"
+msgstr "Mettre en avant "
+
+msgid "Set button style for tab"
+msgstr "Choisir un style de bouton pour l'onglet  "
+
+msgid "Set payment plans your users can choose when posting new project."
+msgstr "Définissez les moyens de paiement que les utilisateurs pourront choisir quand ils posteront un nouveau projet "
+
+msgid "Set up and manage every content of your site"
+msgstr "Configurer et gérer tous les contenus de votre site  "
+
+msgid "Set up the limitation for the 'Budget' filter in 'Projects' page."
+msgstr "Mettre en place une limitation pour le filtre 'Budget' dans la page 'Projets'. "
+
+msgid "Set up the limitation for the 'Freelancer budget' filter in 'Profile' page."
+msgstr "Mettre en place la limitation pour le filtre «budget du freelance\" dans la page \"Profil\". "
+
+msgid "Set your bid:"
+msgstr "Réglez votre offre: "
+
+msgid "Sets the number of decimal points."
+msgstr "Définir le nombre de décimales. "
+
+msgid "Setting up a trustworthy environment for freelancers and employers."
+msgstr "Configuration d'un environnement digne de confiance pour les freelances et les employeurs.  "
+
+msgid "Settings"
+msgstr "Paramètres  "
+
+msgid "Setup Wizard"
+msgstr "Lancer l'assistant de configuration  "
+
+msgid "Shared Roles"
+msgstr "Partager les rôles "
+
+msgid "Sharing Role Capabilities"
+msgstr "Partage des capacités et rôles "
+
+msgid "Short description about this package"
+msgstr "Petite description du forfait"
+
+msgid "Show Details"
+msgstr "Afficher les détails  "
+
+msgid "Sid"
+msgstr "Sid "
+
+msgid "Sidebars & Widgets"
+msgstr "Sidebars & Widgets"
+
+msgid "Sign"
+msgstr "Signer "
+
+msgid "Sign Up"
+msgstr "S'Inscrire"
+
+msgid "Sign in"
+msgstr "Se connecter"
+
+msgid "Sign up"
+msgstr "S'inscrire"
+
+msgid "Signup"
+msgstr "Inscription"
+
+msgid "Simply Drag & Drop"
+msgstr "Il suffit de glisser-déposer "
+
+msgid "Singapore Dollar"
+msgstr "Dollar Singapour  "
+
+msgid "Single Project page Slug"
+msgstr " Slug de votre page projets"
+
+msgid "Site Dashboard"
+msgstr "Site tableau de bord  "
+
+msgid "Site Logo"
+msgstr "Logo du site "
+
+msgid "Site Logo while"
+msgstr "Logo du site web en attendant"
+
+msgid "Site Status"
+msgstr "Statut du site "
+
+msgid "Site key"
+msgstr "Clé de site "
+
+msgid "Site logo "
+msgstr "Logo du site web "
+
+msgid "Site logo in front page"
+msgstr "Site logo sur la page d'accueil "
+
+msgid "Site main color, such view profile, apply project button"
+msgstr "Couleur principale du site, telle les vues de profiles, le bouton de validation du projet"
+
+msgid "Skill"
+msgstr "Compétence"
+
+msgid "Skill tag page Slug"
+msgstr "Slug de la page Compétences"
+
+msgid "Skills"
+msgstr "Compétences  "
+
+msgid "Skills (max is %s)"
+msgstr "Compétences (max est%s)  "
+
+msgid "Skills (max is 5)"
+msgstr "Compétences (maximum de 5) "
+
+msgid "Skills Required"
+msgstr "Compétences Requises "
+
+msgid "Skills required:"
+msgstr "Compétences requises:"
+
+msgid "Skip"
+msgstr "Ignorer"
+
+msgid "Slide max budget"
+msgstr "Limite du budget  "
+
+msgid "Slug"
+msgstr "Identifiant (Slug) "
+
+msgid "Social API"
+msgstr "API social "
+
+msgid "Social Links"
+msgstr "Liens réseaux sociaux "
+
+msgid "Social connect page"
+msgstr "Page de connexion par les réseaux sociaux   "
+
+msgid "Social connect page url "
+msgstr "l'url de la page de connexion des réseaux sociaux "
+
+msgid "Social links are displayed in the footer and in your blog sidebar.."
+msgstr "Les liens sociaux sont affichés dans le pied de page et la barre latérale sur votre blog .. "
+
+msgid "Social login"
+msgstr "Connexion par réseau social "
+
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr "La connexion est un échec. S'il vous plaît contacter l'administrateur de l'aide."
+
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur est survenue avec l’API extensions."
+
+msgid "Something went wrong! System cause following error <br /> %s"
+msgstr "Quelque chose a mal tourné! La cause d'erreur système est la suivante <br /> %s"
+
+msgid "Something went wrong."
+msgstr "Une erreur s'est produite. "
+
+msgid "Sorry, no results were found."
+msgstr "Désolé, il n'y a aucun résultat."
+
+msgid "Source"
+msgstr "Source "
+
+msgid "Specify a date when ad will be archived."
+msgstr "Spécifier une date quand ad est archivé. "
+
+msgid "Standard Header menu"
+msgstr "Menu standard d'entête"
+
+msgid "Status"
+msgstr "Etat "
+
+msgid "Status : Finished<br /> list review here"
+msgstr "Statut: Terminé<br /> Liste de commentaires ici  "
+
+msgid "Status:Hire opening"
+msgstr "Statut: ouverture de l'embauche "
+
+msgid "Status:Working"
+msgstr "Statut: Travail en cours "
+
+msgid "Su"
+msgstr "Dim "
+
+msgid "Submit"
+msgstr "Soumettre  "
+
+msgid "Submit Comment"
+msgstr "Soumettre un commentaire "
+
+msgid "Submit Project"
+msgstr "Soumettre un projet "
+
+msgid "Submit place successfull."
+msgstr "Soummettez un lieu avec succès. "
+
+msgid "Submit project"
+msgstr "Soumettre un projet "
+
+msgid "Success, friend"
+msgstr "Succès, amicalement "
+
+msgid "Successs"
+msgstr "Succès  "
+
+msgid "Sun"
+msgstr "Dim "
+
+msgid "Sunday"
+msgstr "Dimanche "
+
+msgid "Swiss Franc"
+msgstr "Franc Suisse  "
+
+msgid "Switch Country"
+msgstr "Changer de pays "
+
+msgid "Switch Skill"
+msgstr "Changer les compétences"
+
+msgid "Sync success."
+msgstr "Synchronisation effectuée avec succès.  "
+
+msgid "TRASHED"
+msgstr "SUPPRIMÉS"
+
+msgid "TYPE KEYWORD HERE"
+msgstr "ENTRER LE MOT-CLE"
+
+msgid "Testimonial"
+msgstr "Recommandation"
+
+msgid "Testimonials"
+msgstr "Recommandations"
+
+msgid "Testimonials Infomation"
+msgstr "Information sur les recommandations "
+
+msgid "Th"
+msgstr "Jeu "
+
+msgid "Thank you for your payment!"
+msgstr "Merci pour votre paiement!   "
+
+msgid "The ID already existed!"
+msgstr "L’ID existe déjà!     "
+
+msgid "The comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération. "
+
+msgid "The following plugin was activated successfully:"
+msgstr "L’extension suivante a été activée avec succès : "
+
+msgid "The free bids number"
+msgstr "Le nombre d'offres gratuites "
+
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation commence… Il peut prendre un certain temps sur certains serveurs, soyez patients. "
+
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué. "
+
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d’installation et d’activation commence. Ce processus peut prendre un certain temps sur certains serveurs, soyez patients. "
+
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr "Vos informations de connexion sont incorrectes. Veuillez réessayer."
+
+msgid "The payment is pending because it was made by an eCheck that has not yet cleared."
+msgstr "Le paiement est en attente car il a été fait par un Chèque électronique qui n'a pas encore été validé.  "
+
+msgid "The payment is pending because it was made via credit card and the receiver must upgrade the account to a Business account or Premier status to receive the funds. It can also mean that receiver has reached the monthly limit for transactions on the account"
+msgstr "Le paiement est en attente parce qu'il a été fait par carte de crédit et vous devez mettre à niveau votre compte au compte Business ou Premier, afin de recevoir les fonds. Il peut également signifier que vous avez atteint la limite mensuelle de transactions sur votre compte.  "
+
+msgid "The payment is pending because the receiver is not yet verified."
+msgstr "Le paiement est en attente parce que le récepteur n'a pas encore été vérifié.  "
+
+msgid "The payment is pending while it is being reviewed by PayPal for risk."
+msgstr "Le paiement est en attente pendant qu'il est examiné par PayPal pour le risque.  "
+
+msgid "The receiver does not have a balance in the currency sent, and does not have the Payment Receiving Preferences set to automatically convert and accept this payment. Receiver must manually accept or deny this payment from the Account Overview."
+msgstr "Vous n'avez pas de solde dans la devise envoyé, et que vous n'avez pas votre réception de paiements préférences définies pour convertir automatiquement et accepter ce paiement. Vous devez accepter ou refuser manuellement ce paiement. "
+
+msgid "The sample data include some items from the list below: places, comments, etc."
+msgstr "Les données comprennent certains éléments de la liste ci-dessous: lieux, commentaires, etc."
+
+msgid "The sample data include some items from the list below: profile, project, etc."
+msgstr "Les données d'échantillon comprennent certains éléments de la liste ci-dessous: profil, projet, etc."
+
+msgid "Theme functions required to create a folder wp-content/et-content. Please set chmod folder wp-content to 755."
+msgstr "Fonctions de thème pour créer un dossier wp-content/et-content. S'il vous plaît mettre chmod dossier wp-content à 755.  "
+
+msgid "There are no bids yet."
+msgstr "Il n'y a pas d'offres. "
+
+msgid "There are no bids yet. Be the first one now!"
+msgstr "Il n'y a pas d'offres. Soyez le premier dès maintenant!  "
+
+msgid "There are no payments yet."
+msgstr "Il n'y a pas encore de paiement.  "
+
+msgid "There is a Freelancer canceled a bid on Your project %s."
+msgstr "un freelance a annulé une offre sur votre projet %s.  "
+
+msgid "There is an error occurred"
+msgstr "Une erreur s’est produite  "
+
+msgid "There is no payment plan."
+msgstr "Il n'y a aucun pack de paiement.  "
+
+msgid "There is no posts yet"
+msgstr "Il n’y pas encore de publication !"
+
+msgid "There isn't any project is selected!"
+msgstr "Aucun projet sélectionné"
+
+msgid "There was a problem with your upload."
+msgstr "Il y avait un problème avec votre importation."
+
+msgid "There was an error when reading this WXR file"
+msgstr "Une erreur s&#8217;est produite lors de la lecture du fichier WXR "
+
+msgid "There was no changes in your translation."
+msgstr "Il n'y avait aucun changement dans votre traduction.  "
+
+msgid "This copyright information will appear in the footer."
+msgstr "Ce copyright apparaîtra dans le pieds de page."
+
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Cela ne semble pas être un fichier WXR, numéro de la version WXR manquant ou invalide "
+
+msgid "This email is already existed. If you are the owner, please enter the right password"
+msgstr "Cet e-mail existe déjà. Si vous êtes le propriétaire, veuillez entrer le bon mot de passe "
+
+msgid "This email is already used. Please enter a new email."
+msgstr "Cette adresse email est déjà utilisée. Veuillez saisir une autre!"
+
+msgid "This field is required."
+msgstr "Ce champ est obligatoire. "
+
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr "Le fichier est trop lourd. le fichier doit être moins de %1$s KB. "
+
+msgid "This icon will be used as a launcher icon for iPhone and Android smartphones and also as the website favicon. The image dimensions should be 57x57px."
+msgstr "Cette icône sera utilisée comme une icône de lancement pour les iPhone et les smartphones Android et aussi comme favicon pour le site . Les dimensions de l'image doivent être 57x57px. "
+
+msgid "This plan will be featured."
+msgstr "Ce projet sera présenté. "
+
+msgid "This post has been deleted by %s"
+msgstr "Cette publication a été supprimée par %s "
+
+msgid "This project has been archived"
+msgstr "Ce projet a été archivé "
+
+msgid "This project has been closed by %s."
+msgstr "Ce projet a été par fermé par %s. "
+
+msgid "This project has been quit by %s."
+msgstr "Ce projet a été quitté par %s.  "
+
+msgid "This project has been rejected"
+msgstr "Ce projet a été rejeté "
+
+msgid "This project have not accepted any bid."
+msgstr "Ce projet n'ont pas accepté aucune offre "
+
+msgid "This project is not publish."
+msgstr "Ce projet n’est pas publié. "
+
+msgid "This project is pending"
+msgstr "Ce projet est en attente "
+
+msgid "This seems to be your first time signing in using your Facebook account. <br />If you already have an account with %s, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br />You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Facebook.<br />Si vous avez déjà un compte avec %s , connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Facebook. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d’utilisateur sur la page suivante pour créer un compte.<br /> Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement. "
+
+msgid "This seems to be your first time signing in using your Facebook account.If you already have an account, please log in using the form below to link it to your Facebook account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Facebook. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Facebook. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement. "
+
+msgid "This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+  account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Google+. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Google+. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement.</p> "
+
+msgid "This seems to be your first time signing in using your Google+ account.If you already have an account, please log in using the form below to link it to your Google+ account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Google+. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Google+. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement.</p> "
+
+msgid "This seems to be your first time signing in using your LinkedIn account.If you already have an account, please log in using the form below to link it to your LinkedIn account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Linkedin. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Linkedin. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement.</p> "
+
+msgid "This seems to be your first time signing in using your Linkedin account.If you already have an account, please log in using the form below to link it to your Linkedin  account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Linkedin. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Linkedin. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement.</p> "
+
+msgid "This seems to be your first time signing in using your Twitter account.<br />If you already have an account with %s, please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.<br > You will only do this step ONCE. Next time, you'll get logged in right away.</p>"
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Twitter.<br /> Si vous avez déjà un compte avec %s, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Twitter. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d'utilisateur sur la page suivante pour créer un compte.<br > Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement.</p> "
+
+msgid "This seems to be your first time signing in using your Twitter account.If you already have an account  , please log in using the form below to link it to your Twitter account. Otherwise, please enter an email address and a password on the form, and a username on the next page to create an account.You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr "Cela semble être la première fois que vous vous connectez en utilisant votre compte Twitter. Si vous avez déjà un compte, connectez-vous en utilisant le formulaire ci-dessous pour le relier à votre compte Twitter. Sinon, entrez une adresse e-mail et un mot de passe dans le formulaire, et un nom d';utilisateur sur la page suivante pour créer un compte. Vous ferez cette étape une seule fois. La prochaine fois, vous serez connecté immédiatement. "
+
+msgid "Thousand separator"
+msgstr "Séparateur de millier"
+
+msgid "Thu"
+msgstr "Jeu "
+
+msgid "Thursday"
+msgstr "Jeudi "
+
+msgid "Time left: %s"
+msgstr "Temps restant: %s "
+
+msgid "Title"
+msgstr "Titre "
+
+msgid "Title:"
+msgstr "Titre: "
+
+msgid "Total"
+msgstr "Total "
+
+msgid "Total earned"
+msgstr "Total gagné: "
+
+msgid "Total earned:"
+msgstr "Total gagné:"
+
+msgid "Total spent "
+msgstr "Dépenses totales "
+
+msgid "Total spent:"
+msgstr "Dépenses totales "
+
+msgid "Transfer Money"
+msgstr "Transférer de l'argent "
+
+msgid "Transfer Money To Freelancer"
+msgstr "Transférer de l’argent au freelance "
+
+msgid "Translate a language"
+msgstr "Traduire une langue "
+
+msgid "Translation saved! "
+msgstr "Traduction enregistrée  "
+
+msgid "Translator"
+msgstr "Traducteur  "
+
+msgid "Trash"
+msgstr "Corbeille "
+
+msgid "Tu"
+msgstr "Mar "
+
+msgid "Tue"
+msgstr "Mardi "
+
+msgid "Tuesday"
+msgstr "Mardi "
+
+msgid "Turn on to display an \"Invite me\" button on your profile, allowing potential employers to suggest projects for you."
+msgstr "Activer pour afficher un bouton «Invitez-moi\" sur votre profil, permettant aux employeurs potentiels de vous proposer des projets. "
+
+msgid "Twitter"
+msgstr "Twitter "
+
+msgid "Twitter API"
+msgstr "Twitter API "
+
+msgid "Twitter API "
+msgstr "Twitter API "
+
+msgid "Twitter Consumer Key"
+msgstr "Twitter Clé utilisateur "
+
+msgid "Twitter Consumer Secret"
+msgstr "Twitter Consumer Secret "
+
+msgid "Twitter URL"
+msgstr "URL Twitter "
+
+msgid "Twitter key "
+msgstr "Clé API Twitter "
+
+msgid "Twitter secret "
+msgstr "Clé secrète Twitter "
+
+msgid "Type"
+msgstr "Type "
+
+msgid "Type and enter"
+msgstr "Cliquer et entrer"
+
+msgid "Type here to reply"
+msgstr "Cliquez ici pour répondre "
+
+msgid "Type keyword"
+msgstr "ENTRER LE MOT-CLE ICI "
+
+msgid "Type the translation in your language"
+msgstr "Tapez la traduction dans votre langue  "
+
+msgid "USD"
+msgstr "USD "
+
+msgid "Unban this user"
+msgstr "Débloquer cet utilisateur  "
+
+msgid "Unknow"
+msgstr "Inconnu "
+
+msgid "Unnamed"
+msgstr "Non nommé "
+
+msgid "Unpacking the package&#8230;"
+msgstr "Décompression du paquet&#8230; "
+
+msgid "Unsupported Browsers"
+msgstr "Navigateurs incompatibles "
+
+msgid "Update"
+msgstr "Mettre à jour  "
+
+msgid "Update Project Category"
+msgstr "Mettre à jour la catégorie de projet "
+
+msgid "Update Project Type"
+msgstr "Mettre à jour le type de projet  "
+
+msgid "Update Skill "
+msgstr "Mettre à jour la compétence "
+
+msgid "Update bid successful."
+msgstr "Mise à jour de l'offre. "
+
+msgid "Update country "
+msgstr "Mettre à jour le pays  "
+
+msgid "Update option successfully!"
+msgstr "Mise à jour de l'option  "
+
+msgid "Update order successfull."
+msgstr "Mise à jour de la commande avec succès "
+
+msgid "Update project successful!"
+msgstr "Mise à jour réussie "
+
+msgid "Uploaded file not found"
+msgstr "Fichier téléchargé introuvable  "
+
+msgid "Url slug"
+msgstr "Url slug "
+
+msgid "Use Paypal Adaptive API to setup escrow system."
+msgstr "Utilisez Paypal API adaptative pour installer le système d'acompte. "
+
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr "Utilisez des virgules à la place de %s pour séparer les termes exclus. "
+
+msgid "User Profile page Slug"
+msgstr "Slug de la page Profil d'utilisateur"
+
+msgid "User default logo & avtar"
+msgstr "Logo et avatar par defaut "
+
+msgid "User has been banned!"
+msgstr "L’utilisateur a été banni  "
+
+msgid "User quit your project %s."
+msgstr "L’utilisateur a quitté votre projet %s.  "
+
+msgid "User's data update successfully!"
+msgstr "Données de l’utilisateur mises à jour avec succès ! "
+
+msgid "Username"
+msgstr "Identifiant "
+
+msgid "Username and password does not matched"
+msgstr "Le Nom d’utilisateur et le mot de passe ne correspondent pas "
+
+msgid "Username is empty."
+msgstr "Veuillez indiquer un nom d'utilisateur "
+
+msgid "Username is existed, please choose another one"
+msgstr "L’utilisateur existe déjà, veuillez en choisir un autre  "
+
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr "Identifiant (Seuls les minuscules et nombres ) sont autorisés.  "
+
+msgid "Users"
+msgstr "Utilisateurs "
+
+msgid "Users Choose Country From A Drop-Down List Instead Of Entering Country Data."
+msgstr "Utilisateurs choisissent le pays dans une liste déroulante au lieu d’entrer les données par pays. "
+
+msgid "Using Escrow"
+msgstr "Utiliser un acompte"
+
+msgid "Video Background Fallback"
+msgstr "Vidéo d'arrière-plan de remplissage"
+
+msgid "Video Background Url"
+msgstr "lien de la vidéo d'arrière plan "
+
+msgid "Video Background Via Youtube ID"
+msgstr "Vidéo d'arrière plan via Votre Id Youtube "
+
+msgid "View All Testimonials"
+msgstr "voir toutes les recommandations"
+
+msgid "View Bid plan"
+msgstr "Voir le Pack d'offres "
+
+msgid "View Pack"
+msgstr "Voir le Pack  "
+
+msgid "View Profile"
+msgstr "Voir le profil "
+
+msgid "View Testimonial"
+msgstr "Voir la recommandation"
+
+msgid "View all posts in %s"
+msgstr "Voir toutes les publications dans %s"
+
+msgid "View all profiles "
+msgstr "Voir tous les freelances"
+
+msgid "View all projects "
+msgstr "Voir tous les projets "
+
+msgid "View bid"
+msgstr "Voir l'offre "
+
+msgid "View notification"
+msgstr "Voir la notification  "
+
+msgid "View portfolio"
+msgstr "Afficher le portefeuille "
+
+msgid "View profile"
+msgstr "Voir le profil "
+
+msgid "View project"
+msgstr "Voir le projet "
+
+msgid "We"
+msgstr "Nous"
+
+msgid "We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr "Nous vous avons envoyé un e-mail de réinitialisation de votre mot de passe. Veuillez vérifier votre e-mail."
+
+msgid "We will be back with the final result as soon as possible.  "
+msgstr "Nous reviendrons avec le résultat final dès que possible. "
+
+msgid "We will review both sides' reports to have the right decision. Please take your time to submit the report. All proofs such as emails, contracts, files,...will be accepted."
+msgstr "Nous allons examiner les rapports des deux parties afin d'avoir la bonne décision. S'il vous plaît prenez votre temps pour présenter le rapport. Toutes les preuves comme des emails, des contrats, des fichiers, ... seront acceptées. "
+
+msgid ""
+"We will review the reports from both freelancer and employer to give the best decision.\n"
+"    It will take 3-5 business days for reviewing after receiving two reports."
+msgstr ""
+"Nous passerons en revue les rapports des deux freelancers et l'employeur de donner la meilleure décision.\n"
+"    Il prendra 3-5 jours ouvrables pour l'examen après avoir reçu deux rapports."
+
+msgid "We will review the reports from both freelancer and employer to give the best decision. It will take 3-5 business days for reviewing after receiving two reports."
+msgstr "Nous passerons en revue les rapports du Freelance et du client afin de rendre la meilleure décision. Il faudra 3-5 jours ouvrables pour l’examen après avoir reçu les deux rapports."
+
+msgid "Website Description"
+msgstr "Description du site web"
+
+msgid "Website Language"
+msgstr "Langue du site  "
+
+msgid "Website Title"
+msgstr "Titre du site web"
+
+msgid "Wed"
+msgstr "Mercredi "
+
+msgid "Wednesday"
+msgstr "Mercredi "
+
+msgid "Welcome back!"
+msgstr "Merci d'être revenu!  "
+
+msgid "What are you looking for?"
+msgstr "Que recherchez-vous? "
+
+msgid "Where is the file?"
+msgstr "Où est le fichier? "
+
+msgid "WordPress Repository"
+msgstr "Répertoire WordPress "
+
+msgid "Work"
+msgstr "Travailler "
+
+msgid "Work history and Reviews (%d)"
+msgstr "Historique des travaux (%d) "
+
+msgid "Working"
+msgstr "En travail "
+
+msgid "Works History (%s)"
+msgstr "Historique des travaux (%s) "
+
+msgid "Workspace"
+msgstr "Espace de travail   "
+
+msgid "Yes"
+msgstr "Oui "
+
+msgid "You are about to accept this bid for"
+msgstr "Vous êtes sur le point d’accepter cette offre pour "
+
+msgid "You are an admin. Here you administrate."
+msgstr "Vous êtes un administrateur. Vous administrez ici.  "
+
+msgid "You are bid successful"
+msgstr "Votre offre est envoyée  "
+
+msgid "You are currently using the 'Free' plan"
+msgstr "Vous utilisez actuellement le forfait 'Gratuit' "
+
+msgid "You are going to finish this project."
+msgstr "Vous allez terminer ce projet. "
+
+msgid "You are not working on this project."
+msgstr "Vous ne travaillez pas sur ce projet.  "
+
+msgid "You are now redirected to home page ... "
+msgstr "Vous êtes maintenant redirigé(e) vers la page d’accueil… "
+
+msgid "You are now redirected to submit listing page ... "
+msgstr "Vous êtes maintenant redirigé vers la page Soumettre une liste ... "
+
+msgid "You are now redirected to your listing page ... "
+msgstr "Vous êtes maintenant redirigé(e) vers la page Soumettre un projet … "
+
+msgid "You can also sign in by:"
+msgstr "Vous pouvez également vous connecter par: "
+
+msgid "You can create a new page and paste shortcode [social_connect_page] here"
+msgstr "Vous pouvez créer une nouvelle page et coller le shortcode [social_connect_page] ici"
+
+msgid "You can not edit other posts!"
+msgstr "Vous ne pouvez modifier d'autres publications !  "
+
+msgid "You can only choose %s!"
+msgstr "Vous pouvez seulement choisir %s! "
+
+msgid "You can submit %d post using this plan."
+msgstr "Vous pouvez soumettre %d desoffres avec ce forfait."
+
+msgid "You can submit %d posts using this plan."
+msgstr "Vous pouvez soumettre %d des offres avec ce forfait. "
+
+msgid "You can't bid on your project"
+msgstr "Vous ne pouvez pas faire d'offre sur votre projet "
+
+msgid "You can't create an administrator account."
+msgstr "Vous ne pouvez pas créer un compte d’administrateur.  "
+
+msgid "You can't not access this action."
+msgstr "Vous n'avez pas accès à cette action. "
+
+msgid "You can't not reivew on this project."
+msgstr "Vous ne pouvez pas commenter ce projet. "
+
+msgid "You cannot change other user password"
+msgstr "Vous ne pouvez pas changer les mots de passe d’autres utilisateurs "
+
+msgid "You cannot delete a parent category. You need to delete its sub-categories first."
+msgstr "Vous ne pouvez pas supprimer une catégorie parent. Vous devez d’abord supprimer ses sous-catégories.  "
+
+msgid "You cannot send an empty message."
+msgstr "Vous ne pouvez pas poster un message vide.  "
+
+msgid "You do not have an account?"
+msgstr "Vous n’avez pas de compte ? "
+
+msgid "You do not have permission to change option."
+msgstr "Vous n’êtes pas autorisé à changer cette option.  "
+
+msgid "You do not have permission to delete post."
+msgstr "Vous n’êtes pas autorisé à supprimer le message.  "
+
+msgid "You do not have permission to do this action."
+msgstr "Vous ne pouvez pas faire cette action. "
+
+msgid "You do not have permission to report dispute this project."
+msgstr "Vous n'êtes pas autorisé à contester ce projet."
+
+msgid "You don't have perminsion to accept this project."
+msgstr "Vous n'avez pas l'autorisation d'accepter ce projet.  "
+
+msgid "You don't have permission to review."
+msgstr "Vous n'êtes pas autorisé à commenter. "
+
+msgid "You have a new invitation to join project from %s."
+msgstr "Vous avez une invitation à rejoindre le projet de %s.   "
+
+msgid "You have a new message on %s workspace."
+msgstr "Vous avez un nouveau message sur %s l'espace de travail. "
+
+msgid "You have account ? Click here !"
+msgstr "Avez-vous un compte? Cliquez ici ! "
+
+msgid "You have already comment on this."
+msgstr "Vous avez déjà commenté ce sujet.  "
+
+msgid "You have an invite from %s"
+msgstr "Vous avez une invitation de %s  "
+
+msgid "You have been banned from %s"
+msgstr "Vous avez été banni de %s "
+
+msgid "You have been sent payment base on project %s."
+msgstr "Vous avez envoyé un paiement d'acompte sur le projet %s.   "
+
+msgid "You have bid on this project"
+msgstr "Vous avez fait une offre sur ce projet "
+
+msgid "You have bid successfully. No credit left"
+msgstr "Vous avez soumissionné avec succès. Aucun crédit restant"
+
+msgid "You have bid successfully. Only %s credit left"
+msgstr "Votre offre a été publiée avec succès. Vous avez %s crédits restants. "
+
+msgid "You have bid successfully. Only %s credits left"
+msgstr "Votre offre a été publiée avec succès. Vous avez %s crédits restants. "
+
+msgid "You have bid successfully. Only %s free bid left"
+msgstr "Votre offre a été publiée avec succès. Il vous reste encore %s crédits gratuits."
+
+msgid "You have bid successfully. Only %s free bids left"
+msgstr "Votre offre est publiée avec succès. Il vous reste encore %s crédits gratuits.  "
+
+msgid "You have completed project %s and reviewed %s."
+msgstr "Vous avez terminé projet %s et revu %s. "
+
+msgid "You have got a refund on project %s."
+msgstr "Vous avez obtenu un remboursement sur le projet %s.  "
+
+msgid "You have just installed DirectoryEngine theme, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website! <a href='%s'>Close this message</a>"
+msgstr "vous venez d'installer Freelanceengine theme, nous vous recommandons de suivre grâce à notre <a href='%s'>Procédure d'installation</a> de mettre en place la configuration de base pour votre site web! <a href='%s'>Fermer ce message</a>  "
+
+msgid "You have just installed Freelanceengine theme, we recommend you follow through our <a href='%s'>setup wizard</a> to set up the basic configuration for your website! <a href='%s'>Close this message</a>"
+msgstr "vous venez d'installer Freelanceengine thème, nous vous recommandons de suivre grâce à notre <a href='%s'>Procédure d'installation</a> de mettre en place la configuration de base pour votre site web! <a href='%s'>Fermer ce message</a>"
+
+msgid "You have logged in successfully"
+msgstr "Vous êtes connecté avec succès. "
+
+msgid "You have not confirmed your email yet, please check out your mailbox."
+msgstr "Vous n'avez pas encore confirmé votre e-mail, s'il vous plaît vérifier votre boîte aux lettres. "
+
+msgid "You have not posted any projects yet."
+msgstr "Vous n’avez pas encore publié de projets."
+
+msgid "You have reached the maximum number of Free posts. Please select another plan."
+msgstr "Vous avez atteint le nombre maximal de messages gratuits. Veuillez sélectionner un autre forfait.  "
+
+msgid "You have registered successfully!"
+msgstr "Votre inscription s'est faite avec succès !"
+
+msgid "You have registered successfully. Please check your mailbox to activate your account."
+msgstr "Vous avez été enregistré avec succès. Veuillez vérifier votre messagerie pour activer votre compte.  "
+
+msgid "You have request a confirm email from %s."
+msgstr "Vous avez demandé un email de confirmation de %s.  "
+
+msgid "You have reviewed on this project."
+msgstr "Vous avez passé en revue ce projet. "
+
+msgid "You have selected an invalid plan."
+msgstr "Vous avez sélectionné un forfait non valide. "
+
+msgid "You have selected: %s"
+msgstr "Vous avez sélectionné: %s "
+
+msgid "You have signed in successfully!"
+msgstr "Vous êtes connecté!"
+
+msgid "You have successfully sent the money. Now you can start working on project %s ."
+msgstr "Vous avez envoyé avec succès l'argent. Maintenant, vous pouvez commencer à travailler sur le projet %s. "
+
+msgid "You have to be a freelancer to bid a project."
+msgstr "Vous devez être freelance pour faire une offre sur un projet. "
+
+msgid "You have to login."
+msgstr "Il faut se connecter.  "
+
+msgid "You have to pay"
+msgstr "Vous devez payer "
+
+msgid "You have to rate for this profile."
+msgstr "Vous devez noter ce profil. "
+
+msgid "You have to rate this project."
+msgstr "Vous devez noter ce projet. "
+
+msgid "You have to set the bid budget."
+msgstr "Vous devez définir le prix de l'offre. "
+
+msgid "You have to set the time to finish project."
+msgstr "Vous devez définir le temps pour finir le projet. "
+
+msgid "You have use a coupon code to get discount"
+msgstr "Vous avez utilisé un code promo pour obtenir une remise "
+
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "Vous avez utilisé votre quota d'espace. S'il vous plaît supprimer des fichiers avant le téléchargement."
+
+msgid "You must <a href=\"%s\">login</a> to bid on this project"
+msgstr "Vous devez <a href=\"%s\">vous identifier</a> pour enchérir sur ce projet "
+
+msgid "You must be <a href=\"#\" class=\"login login-btn\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=“%s”>connecté(e)</a> pour poster un commentaire."
+
+msgid "You must complete your profile to bid on a project."
+msgstr "Vous devez remplir votre profil pour faire une offre sur un projet.  "
+
+msgid "You must login to submit listing."
+msgstr "Vous devez vous connecter pour soumettre la liste.  "
+
+msgid "You must login to upload image."
+msgstr "Vous devez vous connecter pour envoyer une image.  "
+
+msgid "You must setup your paypal account in profile to receive money."
+msgstr "Vous devez configurer votre compte paypal dans le profil pour recevoir l'argent.  "
+
+msgid "You need an employer account to post a project."
+msgstr "Vous avez besoin d’un compte employeur pour publier un projet."
+
+msgid "You only can have on profile."
+msgstr "Vous ne pouvez avoir qu'un seul profil  "
+
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr "Vous achetez avec succès le paquet « %s » en cash sur « %s »  "
+
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr "Vous avez acheté le paquet <strong>%s</strong> et il vous reste %d post(s). "
+
+msgid "You purchased package <strong>%s</strong> and have %d post/s left. Your posted post is pending until payment."
+msgstr "Vous avez acheté le paquet <strong>%s</strong> et il vous reste %d post(s). Votre post publié est en attente jusqu’au paiement. "
+
+msgid "You should enter short description for your place."
+msgstr "Vous devez entrer une description courte pour votre lieu. "
+
+msgid "You should save your translation after every 20 strings to make sure they won't lost "
+msgstr "Vous devez enregistrer votre traduction après chaque 20 chaînes pour s’assurer qu’ils ne sera pas perdu "
+
+msgid "You submit a post by cash on '%s'"
+msgstr "Vous avez soumis une publication par cash sur '%s' "
+
+msgid "You will have %d credits if using this plan."
+msgstr "Vous devez avoir % des crédits si vous choisissez ce forfait."
+
+msgid "You're going to quit this project. However, you are still available to access the workspace."
+msgstr "Vous allez quitter ce projet. Cependant, vous êtes toujours disponible pour accéder à l'espace de travail."
+
+msgid "You've successfully purchased %d credits."
+msgstr "Vous avez acheté %d crédits avec succès.  "
+
+msgid "Your 2Checkout Secret Key"
+msgstr "Votre clé secrète pour 2 Check-out "
+
+msgid "Your 2Checkout Seller ID"
+msgstr "Votre 2 Check-out Identifiant "
+
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr "Votre 2Checkout a été désactivé en raison de paramètres non valides! "
+
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr "Votre Authorize.Net a été désactivé en raison de paramètres non valides ! "
+
+msgid "Your Bid Credit: "
+msgstr "Nombre de crédits pour faire une offre :"
+
+msgid "Your Comment"
+msgstr "Votre Commentaire"
+
+msgid "Your Country"
+msgstr "Votre pays "
+
+msgid "Your Credit number: "
+msgstr "Votre nombre de crédits: "
+
+msgid "Your Email"
+msgstr "Email "
+
+msgid "Your Experience"
+msgstr "Votre expérience "
+
+msgid "Your Full Name"
+msgstr "Votre nom complet "
+
+msgid "Your Fullname"
+msgstr "Votre nom complet"
+
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr "Votre Google Checkout a été désactivé en raison de paramètres non valides ! "
+
+msgid "Your Hourly Rate"
+msgstr "Votre taux horaire "
+
+msgid "Your New Password"
+msgstr "Votre nouveau mot de passe "
+
+msgid "Your Notification"
+msgstr "Vos notifications"
+
+msgid "Your Old Password"
+msgstr "Votre ancien mot de passe "
+
+msgid "Your Password"
+msgstr "Votre Mot de Passe"
+
+msgid "Your Paypal Account"
+msgstr "Compte Paypal "
+
+msgid "Your Paypal Adaptive AppID"
+msgstr "Votre AppID adaptative de Paypal  "
+
+msgid "Your Portfolio"
+msgstr "Votre portefeuille "
+
+msgid "Your Professional Title"
+msgstr "Votre titre professionnel "
+
+msgid "Your Profile"
+msgstr "Votre profil"
+
+msgid "Your Skill"
+msgstr "Vos compétences "
+
+msgid "Your Skills"
+msgstr "Votre compétences "
+
+msgid "Your User Name or Email"
+msgstr "Votre nom d’utilisateur ou email "
+
+msgid "Your Worked History and Reviews"
+msgstr "Historique de travaux et commentaires "
+
+msgid "Your account has been confirmed successfully!"
+msgstr "Votre compte a été confirmé avec succès! "
+
+msgid "Your account is pending. You have to activate your account to continue this step."
+msgstr "Votre compte est en attente d'approbation. Vous devez activer votre compte pour continuer cette étape. "
+
+msgid "Your account is pending. You have to activate your account to create profile."
+msgstr "Votre compte est en attente d'approbation. Vous devez activer votre compte pour créer le profil.  "
+
+msgid "Your bid at %s was accepted by %s"
+msgstr "Votre offre à %s a été acceptée par %s  "
+
+msgid "Your bid on project %s has been accepted."
+msgstr "Votre offre sur le projet %s a été acceptée.  "
+
+msgid "Your budget have to greater than zero!"
+msgstr "Votre prix ne doivent supérieur à zéro!v"
+
+msgid "Your credits has been transfered to the freelancer."
+msgstr "Vos crédits ont été transférés au freelance."
+
+msgid "Your email address"
+msgstr "Votre adresse e-mail "
+
+msgid "Your have to enter a budget for your requirement!"
+msgstr "Votre devez entrer un prix pour vos besoins! "
+
+msgid "Your invite has been sent!"
+msgstr "Votre invitation a été envoyée "
+
+msgid "Your logo should be in PNG, GIF or JPG format, within 150x50px and less than 1500Kb."
+msgstr "Votre logo doit être au format PNG, GIF ou JPG, de taille 150x50px et moins de 1500kb. "
+
+msgid "Your message"
+msgstr "Message "
+
+msgid "Your message has been sent successfully!"
+msgstr "Votre profil a bien été mis à jour avec succès. "
+
+msgid "Your password has been changed successfully!"
+msgstr "Votre mot de passe a été modifié avec succès !  "
+
+msgid "Your password have updated successfull. You can login with your new password now."
+msgstr "Votre mot de passe ont mis à jour avec succès. Vous pouvez vous connecter avec votre nouveau mot de passe maintenant.  "
+
+msgid "Your payment has been sent successfully but is currently set as 'pending' by %s. <br/>You will be notified when your listing is approved."
+msgstr "Votre paiement a été envoyé avec succès, mais est actuellement «en cours de validation» par %s. <br/> Vous serez averti lorsque votre inscription est approuvée. "
+
+msgid "Your payment will be sent when the freelancer confirms it has been done."
+msgstr "Votre paiement sera envoyé quand le freelance confirmera que cela a été fait. "
+
+msgid "Your paypal API password"
+msgstr "Votre mot de passe de l'API PayPal.  "
+
+msgid "Your paypal API signature"
+msgstr "Votre clé d'API PayPal.  "
+
+msgid "Your paypal API username"
+msgstr "Votre nom d'utilisateur de l'API PayPal.  "
+
+msgid "Your paypal business email"
+msgstr "Adresse électronique PayPal Business  "
+
+msgid "Your place should have a title."
+msgstr "Vous devez renseigner votre lieu. "
+
+msgid "Your post \"%s\" has been archived"
+msgstr "Votre publication  « %s » a été archivée  "
+
+msgid "Your post '%s' has been approved."
+msgstr "Votre publication ‘%s’ a été approuvée.  "
+
+msgid "Your post '%s' has been rejected."
+msgstr "Votre publication ‘%s’ a été rejetée.  "
+
+msgid "Your posted project has a review."
+msgstr "Votre projet envoyé a reçu un avis.  "
+
+msgid "Your presend payment on project %s has been transfer."
+msgstr "Votre paiement d'acompte sur le projet %s a été transféré.  "
+
+msgid "Your profile has been created successfully."
+msgstr "Votre profil a été créé avec succès. "
+
+msgid "Your profile has been saved successfully!"
+msgstr "Votre profil a été sauvegardé !  "
+
+msgid "Your profile has been updated successfully."
+msgstr "La mise à jour de votre profil est réussie "
+
+msgid "Your project posted on %s has a new bid."
+msgstr "Votre projet publié le %s a une nouvelle offre.  "
+
+msgid "Your project should has a category!"
+msgstr "Votre projet doit avoir une catégorie ! "
+
+msgid "Your project was not pubished. You can not accept a bid!"
+msgstr "Votre projet n'a pas été publié. Vous ne pouvez donc pas recevoir ou accepter d'offres.  "
+
+msgid "Your report"
+msgstr "Votre rapport "
+
+msgid "Your review about %s"
+msgstr "Votre avis sur %s "
+
+msgid "Your review about employer"
+msgstr "Votre avis sur l'employeur"
+
+msgid "Your review has been submitted."
+msgstr "Votre commentaire a été soumis. "
+
+msgid "Zero size file downloaded"
+msgstr "Fichier de taille 0 téléchargé "
+
+msgid "[%s] Password Reset"
+msgstr "[%s] Mot de Passe réinitiliasé  "
+
+msgid "[%s]Email Change Confirmation"
+msgstr "[%s] Confirmation du changement d'e-mail"
+
+msgid "[%s]New Private Message From %s"
+msgstr "[%s]Nouveau Message privé de %s  "
+
+msgid "[%s]New claim request from %s."
+msgstr "[%s]Nouvelle réclamation de %s.  "
+
+msgid "[%s]New report message from %s."
+msgstr "[%s]Nouveau message de signalement de %s.  "
+
+msgid "[%s]Your claim request has been approved."
+msgstr "[%s]Votre réclamation a été approuvée.  "
+
+msgid "[%s]Your claim request has been rejected."
+msgstr "[%s]Votre réclamation a été rejetée.  "
+
+msgid "accepted"
+msgstr "accepté"
+
+msgid "activate link is require for user to renew their pass"
+msgstr "Le lien d'activation est nécessaire pour l'utilisateur pour le renouvellement de son mot de passe "
+
+msgid "ago"
+msgstr "depuis"
+
+msgid "archive Mail"
+msgstr "Courrier d'archives"
+
+msgid "at %s"
+msgstr "à %s  "
+
+msgid "bad"
+msgstr "mauvais "
+
+msgid "close"
+msgstr "fermer"
+
+msgid "commission"
+msgstr "commission "
+
+msgid "complete"
+msgstr "Terminer"
+
+msgid "content here"
+msgstr "Contenu ici ...  "
+
+msgid "credits"
+msgstr "crédits"
+
+msgid "days"
+msgstr "jours"
+
+msgid "disputed"
+msgstr "contesté"
+
+msgid "disputing"
+msgstr "contestation"
+
+msgid "e.g: Wordpress Developer"
+msgstr "e.g: développeur Wordpress "
+
+msgid "e.g:30"
+msgstr "Ex:30 "
+
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr "par exemple: http: //enginethemes.com/directoryengine/social-connect "
+
+msgid "good"
+msgstr "Bon  "
+
+msgid "gorgeous"
+msgstr "magnifique  "
+
+msgid "header left text"
+msgstr "Texte d'en-tête de gauche"
+
+msgid "header right text"
+msgstr "Texte d'en-tête droit"
+
+msgid "header video url"
+msgstr "Lien vidéo d'entête "
+
+msgid "hide"
+msgstr "masquer"
+
+msgid "in %d day"
+msgstr "en %d jour "
+
+msgid "in %d days"
+msgstr "en %d jours "
+
+msgid "in %d week"
+msgstr "en %d semaine "
+
+msgid "in %d weeks"
+msgstr "en %d semaines "
+
+msgid "list projects employer send to freelancer when invite him to join"
+msgstr "Liste des projets que l'employeur a envoyé aux Freelancers lorsqu'ils sont invité à rejoindre "
+
+msgid "member dashboard url "
+msgstr "Lien du tableau de bord du membre"
+
+msgid "nice"
+msgstr "bon "
+
+msgid "on %s"
+msgstr "sur %s"
+
+msgid "poor"
+msgstr "faible "
+
+msgid "posts"
+msgstr "Publications"
+
+msgid "project %s is renewed"
+msgstr "Le projet %s est renouvelé  "
+
+msgid "project title, link, details, author"
+msgstr "Titre du projet, lien, détail, auteur "
+
+msgid "publish Mail"
+msgstr "Modèle   de publication "
+
+msgid "reCaptcha Secret Key"
+msgstr "Clé secrète reCAPTCHA "
+
+msgid "reCaptcha Site Key"
+msgstr "Clé du site reCAPTCHA "
+
+msgid "reject Mail"
+msgstr "Refuser le mail "
+
+msgid "setup a way for users to login via their socile network accounts"
+msgstr "configurer un moyen aux utilisateurs de se connecter par les réseaux sociaux  "
+
+msgid "success"
+msgstr "Succès "
+
+msgid "to join your project (choose one or more projects below):"
+msgstr "Rejoindre votre projet (choisissez un ou plusieurs projets ci-dessous): "
+
+msgid "use escrow"
+msgstr "Utilisez les acomptes"
+
+msgid "user's details you want to send mail"
+msgstr "Détails de l'utilisateur à qui vous souhaitez envoyer un message "
+
+msgid "views"
+msgstr "vues"
+
+msgid "week"
+msgstr "semaine "
+
+msgid "year(s)"
+msgstr "année(s) "
+
+msgid "404 Error"
+msgstr "Erreur 404"
+
+msgid "Sorry, the page you were looking for doesn't exist!"
+msgstr "Désolé! La page que vous recherché n'existe pas."
+
+msgid "Go back to <a href=\"%s\">home</a> page or return to <a href=\"#\" onclick=\"window.history.back()\">previous</a> page."
+msgstr "Retournez à la <a href=\"%s\">page d'accueil</a> ou à la <a href=\"#\" onclick=\"window.history.back()\">page précédente</a>."
+
+msgid "bids"
+msgstr "offres"
+
+msgid "unaccepted"
+msgstr "réfusés"
+
+msgid "FREELANCER"
+msgstr "FREELANCE"
+
+msgid "EMPLOYER"
+msgstr "EMPLOYEUR"
+
+msgid "Project was accepted by Employer"
+msgstr "Mission acceptée par le donneur d'ordre"
+
+msgid "Project was finished by employer"
+msgstr "Mission terminée par le donneur d'ordre"
+
+msgid "%s for %d bids"
+msgstr "%s pour %d offres"
+
+msgid "You must be invited to bid this project."
+msgstr "Vous devez être invité pour pouvoir postuler à cette offre de mission"
+
+msgid "Your project has been finished."
+msgstr "Votre mission a été accomplie"
+
+msgid "Avg Bids (%s)"
+msgstr "Offres moyennes (%s)"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Bids: "
+msgstr "Offres"
+
+msgid "Bid: "
+msgstr "Faire une offre"
+
+msgid "Avg Bid:"
+msgstr "Offre moyenne"
+
+msgid "You will have %s  if using this plan."
+msgstr "Dépôt de %s sur votre compte."
+
+msgid "Workspace:"
+msgstr "Espace de travail:"
+
+msgid "%s  for %s credits"
+msgstr "%s pour %s crédits"
+
+msgid "Credits in your account will be deducted to make the payment"
+msgstr "Les crédits de votre compte seront utilisés pour effectuer le paiement"
+
+msgid "Credits"
+msgstr "Crédits"
+
+msgid "Payment Method"
+msgstr "Méthode de Paiement"
+
+msgid "Paypal Account:"
+msgstr "Compte PayPal"
+
+msgid "Banking Information:"
+msgstr "Informations bancaires"
+
+msgid "Your Balance"
+msgstr "Votre Solde"
+
+msgid "Credit balance"
+msgstr "Solde de crédits"
+
+msgid "Available balance"
+msgstr "Solde disponible"
+
+msgid "Frozen balance"
+msgstr "Solde gelé"
+
+msgid "Recharge"
+msgstr "Recharger"
+
+msgid "Unable to withdraw money. Your available credit must be greater or equal to %s"
+msgstr "Impossible de retirer de l'argent. Votre solde disponible doit être supérieur ou égal à %s"
+
+msgid "Withdraw"
+msgstr "Retirer"
+
+msgid "Credits changelog"
+msgstr "Historiques"
+
+msgid "Your withdraw request is waiting for admin approval."
+msgstr "Votre demande de retrait d'argent est en attente d'approbation par l'administrateur."
+
+msgid "Your project commission & fee have been sent to admin under Escrow system. Otherwise, your withdraw request is waiting for admin approval."
+msgstr "La commission et les frais de votre projet ont été envoyés à l'administrateur sous notre système d'escrow. Sinon, votre demande de retrait est en attente d'approbation par l'administrateur"
+
+msgid "Your balance"
+msgstr "Votre solde"
+
+msgid "Your balance is not enough for this plan"
+msgstr "Votre solde est insuffisant pour cette formule"
+
+msgid "Enter your secure code:"
+msgstr "Entrez votre code sécurisé"
+
+msgid "Please enter secure code"
+msgstr "Veuillez saisir votre code sécurisé"
+
+msgid "All transaction"
+msgstr "Toutes les transactions"
+
+msgid "All Transaction"
+msgstr "Toutes les Transactions"
+
+msgid "Deposit"
+msgstr "Déposer"
+
+msgid "Receive"
+msgstr "Recevoir"
+
+msgid "Refund"
+msgstr "Rembourser"
+
+msgid "From"
+msgstr "Du"
+
+msgid "to"
+msgstr "au"
+
+msgid "Request a new Secure Code"
+msgstr "Demander un Code Secret"
+
+msgid "Credit changelog"
+msgstr "Historiques"
+
+msgid "Reset Secure Code"
+msgstr "Renouveler Votre Code Secret"
+
+msgid "Available credit"
+msgstr "Crédit disponible"
+
+msgid "Frozen credit"
+msgstr "Crédit gelé"
+
+msgid "Withdraw amount"
+msgstr "Montant à retirer"
+
+msgid "Minimum amount is"
+msgstr "Le montant minimum est"
+
+msgid "Payment information"
+msgstr "Informations de paiement"
+
+msgid "Payment method"
+msgstr "Méthode de paiement"
+
+msgid "Bank"
+msgstr "Banque"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Security code"
+msgstr "Code de sécurité"
+
+msgid "Please enter the code that we provided you when register."
+msgstr "Veuillez entrer le code que nous vous avons envoyé lors de votre inscription."
+
+msgid "<li class='no-transaction'><span>There isn't any transaction!</span></li>"
+msgstr "<li class='no-transaction'><span>Il n'y a aucune transaction!</span></li>"
+
+msgid "Paid"
+msgstr "Payer"
+
+msgid "Your Projects (%s)"
+msgstr "Vos Projets (%s)"
+
+msgid "Your Projects (%d)"
+msgstr "Vos Projets (%s)"
+
+msgid "<p>You have not created any projects yet.</p><p>It is time to start creating ones.</p>"
+msgstr "<p>Vous n'avez pas encore créé de projet.</p><p>Il est temps de commencer à en créer.</p>"
+
+msgid "Post a project"
+msgstr "Publier un projet"
+
+msgid ""
+"<li class=\"no-result\"><span class=\"no-message\"><i class=\"fa fa-exclamation\"></i>No messages found. <br/>\n"
+"Please come back to your bidders list to start a new conversation.</span></li>"
+msgstr "<li class=\"no-result\"><span class=\"no-message\"><i class=\"fa fa-exclamation\"></i>Aucun message trouvé.<br/>Veuillez revenir à votre liste de soumissionnaires pour entamer une nouvelle conversation.</span></li>"
+
+msgid ""
+"<span class=\"no-message\"><i class=\"fa fa-exclamation\"></i>No messages found. <br/>\n"
+"Please come back to your bidders list to start a new conversation.</span>"
+msgstr "<span class=\"no-message\"><i class=\"fa fa-exclamation\"></i>Aucun message trouvé.<br/>Veuillez revenir à votre liste de soumissionnaires pour entamer une nouvelle conversation.</span></li>"
+
+msgid "Project %s"
+msgstr "Projet %s"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Your account can't send this message!"
+msgstr "Votre compte ne peut pas envoyer ce message!"
+
+msgid "Data is empty!"
+msgstr "Les données sont vides"
+
+msgid "Views"
+msgstr "Vues"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Hide"
+msgstr "Cacher"
+
+msgid "Worked on"
+msgstr "A travaillé sur"
+
+msgid "<span>Bids:</span><span class=\"number\">%s</span>"
+msgstr "<span>Offres:</span><span class=\"number\">%s</span>"
+
+msgid "<span>Bid:</span> <span class=\"number\">1</span>"
+msgstr "<span>Offre:</span> <span class=\"number\">1</span>"
+
+msgid "%s <span class=\"normal-text\">Bids</span>"
+msgstr "%s <span class=\"normal-text\">Offres</span>"
+
+msgid "%s <span class=\"normal-text\">Bid</span>"
+msgstr "%s <span class=\"normal-text\">Offre</span>"
+
+msgid "%d <span class='normal-text'>Views</span>"
+msgstr "%d <span class='normal-text'>Vues</span>"
+
+msgid "%d <span class='normal-text'>View</span>"
+msgstr "%d <span class='normal-text'>Vue</span>"
+
+msgid "I agree with the <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\">Term of Use and Privacy policy</a>"
+msgstr "J'adhère aux <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\">conditions d'utilisation et politique de confidentialité</a>"
+
+msgid "By creating an account, you agree to our <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\">Term of Use and Privacy policy</a>"
+msgstr "En créant un compte, vous adhèrez à nos <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\">conditions d'utilisation et politique de confidentialité</a>"
+
+msgid "You must complete your profile to do any activities on site"
+msgstr "Vous devez compléter votre profil pour pouvoir effectuer des activités sur le site"
+
+msgid "Enter keyword"
+msgstr "Entrez mot-clé"
+
+msgid "UnRead"
+msgstr "Non lu"
+
+msgid "View all"
+msgstr "Voir tous"
+
+msgid "Balance:"
+msgstr "Solde:"
+
+msgid "Milestones"
+msgstr "Etapes Importantes"
+
+msgid "Resolved"
+msgstr "Résolu"
+
+msgid "By posting your project, you agree to our <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_Blank\">Term of Use and Privacy policy</a>"
+msgstr "En publiant votre projet, vous adhérez à nos <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_Blank\">conditions d'utilisation et politique de confidentialité</a>"
+
+msgid "By posting your project, you agree to our <a href=\"%s\" target=\"_Blank\" rel=\"noopener noreferrer\">Term of Use and Privacy policy</a>"
+msgstr "En publiant votre projet, vous adhérez à nos <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_Blank\">conditions d'utilisation et politique de confidentialité</a>"
+
+msgid "Cannot update milestone when project is in process"
+msgstr "Impossible de mettre à jour cette étape importante pendant que le projet est en cours"
+
+msgid "Cannot update milestone"
+msgstr "Impossible de mettre à jour l'étape importante"
+
+msgid "Cannot create milestone"
+msgstr "Impossible de créer l'étape importante"
+
+msgid "Project is in process"
+msgstr "Ce projet est en cours"
+
+msgid "You have resolved a milestone."
+msgstr "Vous avez résolu une étape importante."
+
+msgid "You have closed a milestone."
+msgstr "Vous avez fermé une étape importante."
+
+msgid "You have re-opended milestone."
+msgstr "Vous avez reouvert l'étape importante."
+
+msgid "Success."
+msgstr "Succès."
+
+msgid "Error."
+msgstr "Erreur."
+
+msgid "Cannot create changelog."
+msgstr "Impossible de créer l'historique."
+
+msgid "[Re-open milestone] %s has re-opened milestone: %s"
+msgstr "[Etape reouverte] %s a reouvert l'étape importante: %s"
+
+msgid "[Resolve milestone] %s has resolved milestone: %s"
+msgstr "[Etape résolue] %s a resolu l'étape importante: %s"
+
+msgid "[Close milestone] %s has closed milestone: %s"
+msgstr "[Etape fermée] %s a fermé l'étape importante: %s"
+
+msgid "Project \"%s\" has been updated"
+msgstr "Le projet \"%s\" a été mis à jour "
+
+msgid "Cannot create notification."
+msgstr "Impossible de créer une notification."
+
+msgid "%s has created milestone %s on %s workspace"
+msgstr "%s a créé l'étape importante %s dans l'espace de travail du projet %s"
+
+msgid "Add milestone"
+msgstr "Ajoutez une étape importante"
+
+msgid "%s has re-opened milestone %s on %s workspace"
+msgstr "%s a reouvert l'étape importante %s dans l'espace de travail du projet %s"
+
+msgid "%s has resolved milestone %s on %s workspace"
+msgstr "%s a résolu l'étape importante %s dans l'espace de travail du projet %s"
+
+msgid "%s has closed milestone %s on %s workspace"
+msgstr "%s a fermé l'étape importante %s dans l'espace de travail du projet %s"
+
+msgid "Separate project into milestones"
+msgstr "Divisez votre projet en quelques étapes importantes."
+
+msgid "You can create %s milestone"
+msgstr "Vous pouvez créer au maximum %s étapes importantes"
+
+msgid "You can create %s milestones"
+msgstr "Vous pourrez en ajouter plus tard"
+
+msgid "You"
+msgstr "Vous"
+
+msgid "Re-opened"
+msgstr "Reouvert"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "Milestone %s of project %s was re-opened"
+msgstr "L'étape importante %s du projet %s a été reouverte"
+
+msgid "Project milestones:"
+msgstr "Etapes importantes du projet:"
+
+msgid "<span class=\"number\">%d</span> <p>Bids</p>"
+msgstr "<span class=\"number\">%d</span> <p>Offres</p>"
+
+msgid "<span class=\"number\">%d</span> <p>Bid</p>"
+msgstr "<span class=\"number\">%d</span> <p>Offre</p>"
+
+msgid "%s <span class=\"text-normal\">Bid</span>"
+msgstr "%s <span class=\"text-normal\">Offre</span>"
+
+msgid "%s <span class=\"text-normal\">Bids</span>"
+msgstr "%s <span class=\"text-normal\">Offres</span>"
+
+msgid "Complete project(s):"
+msgstr "Projet(s) completé(s):"
+
+msgid "New milestone"
+msgstr "Nouvelle étape importante"
+
+msgid "View milestone"
+msgstr "Voir l'étape importante"
+
+msgid "Search milestones"
+msgstr ""
+
+msgid "Your Username or Email"
+msgstr "Votre Identifiant ou Adresse Email"
+
+msgid "Enter Username or Email"
+msgstr "Entrez votre identifiant ou adresse e-mail"

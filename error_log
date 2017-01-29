@@ -1,0 +1,1 @@
+[08-Jan-2017 01:07:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/beauxthe/public_html/ivoirefreelance/wp-content/plugins/rocket-maintenance-mode/views/admin-settings/plugin_actiavtion_notice.php:4) in /home/beauxthe/public_html/ivoirefreelance/wp-includes/pluggable.php on line 1179
