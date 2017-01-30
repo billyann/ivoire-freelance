@@ -25,7 +25,19 @@
         </form>
                                 
     	<ul class="list-price">
-        <?php 
+        <?php
+            $cinetpay = ae_get_option('cinetpay');
+            if($cinetpay['enable']) {
+        ?>
+            <li>
+                <span class="title-plan select-payment" data-type="cinetpay">
+                    <?php _e("CinetPay", ET_DOMAIN); ?>
+                    <span><?php _e("Send your payment via CinetPay.", ET_DOMAIN); ?></span>
+                </span>
+                <a href="#" class="btn btn-submit-price-plan select-payment" data-type="cinetpay"><?php _e("Select", ET_DOMAIN); ?></a>
+            </li>
+        <?php
+        }
             $paypal = ae_get_option('paypal');
             if($paypal['enable']) { 
         ?>
@@ -36,7 +48,8 @@
                 </span>
                 <a href="#" class="btn btn-submit-price-plan select-payment" data-type="paypal"><?php _e("Select", ET_DOMAIN); ?></a>
             </li>
-        <?php }
+        <?php
+        }
             $co = ae_get_option('2checkout');
             if($co['enable']) { 
          ?>
