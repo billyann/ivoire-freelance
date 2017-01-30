@@ -19,6 +19,7 @@ wp-content/plugins/hello.php
 cgi-bin
 .htaccess
 license.txt
+.idea
 
 
 
