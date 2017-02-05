@@ -20,5 +20,8 @@ cgi-bin
 .htaccess
 license.txt
 
+.idea
+wp-includes
+
 
 
