@@ -10,6 +10,8 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
+wp-includes
+
 /.htaccess
 /license.txt
 /readme.html
@@ -20,8 +22,6 @@ cgi-bin
 .htaccess
 license.txt
 
-.idea
-wp-includes
-
-
+.idea/workspace.xml
+.idea/tasks.xml
 
