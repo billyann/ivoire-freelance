@@ -1,4 +1,7 @@
+cgi-bin
+
 *.log
+
 wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
@@ -18,10 +21,4 @@ wp-includes
 /sitemap.xml
 /sitemap.xml.gz
 
-cgi-bin
-.htaccess
-license.txt
-
-.idea/workspace.xml
-.idea/tasks.xml
-
+.idea
