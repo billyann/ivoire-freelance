@@ -1,5 +1,4 @@
-cgi-bin
-
+.idea/
 *.log
 
 wp-config.php
@@ -15,10 +14,9 @@ wp-content/plugins/hello.php
 
 wp-includes
 
+cgi-bin
 /.htaccess
 /license.txt
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
-
-.idea
